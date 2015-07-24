@@ -8,11 +8,16 @@
 然后
 
 ```
-git clone git@github.com:Malayke/FreebufTools.git
+下载源码
+git clone https://github.com/Malayke/FreebufTools.git
 
+进入爬虫目录
 cd freebuf_tools
 
+开始爬取
 scrapy crawl fbtools
 ```
 
-等他爬取结束，在当前目录下会生成叫 **fbtools_utf8.json**的文件，里面是爬取的所有数据的json格式，方便日后使用！
+等他爬取结束，在当前目录下会生成叫 **fbtools_utf8.json**的文件，
+
+里面是爬取的所有数据的json格式，方便日后使用！
