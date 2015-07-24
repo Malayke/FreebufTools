@@ -1,0 +1,743 @@
+{"tool_url": ["http://www.freebuf.com/news/72740.html"], "tool_release_date": ["2015-07-20"], "tool_desc": ["美国国家安全局（NSA）发布Linux安全工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/69362.html"], "tool_release_date": ["2015-07-16"], "tool_desc": ["玩转Metasploit系列（第七集）"]}
+{"tool_url": ["http://www.freebuf.com/news/72466.html"], "tool_release_date": ["2015-07-15"], "tool_desc": ["2015年度开源项目新秀和荣誉榜公布"]}
+{"tool_url": ["http://www.freebuf.com/tools/69358.html"], "tool_release_date": ["2015-07-15"], "tool_desc": ["玩转Metasploit系列（第六集）"]}
+{"tool_url": ["http://www.freebuf.com/tools/72360.html"], "tool_release_date": ["2015-07-15"], "tool_desc": ["Black Hat 2015上将发布的安全工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/72363.html"], "tool_release_date": ["2015-07-14"], "tool_desc": ["四种捕获DDoS攻击的监测工具（含报告）"]}
+{"tool_url": ["http://www.freebuf.com/tools/72354.html"], "tool_release_date": ["2015-07-14"], "tool_desc": ["密码破解神器John the Ripper GUI – Johnny"]}
+{"tool_url": ["http://www.freebuf.com/tools/72135.html"], "tool_release_date": ["2015-07-13"], "tool_desc": ["Meatsploit Framework msfvenom使用简介"]}
+{"tool_url": ["http://www.freebuf.com/tools/72227.html"], "tool_release_date": ["2015-07-13"], "tool_desc": ["CANard工具套件：CAN总线安全工具"]}
+{"tool_url": ["http://www.freebuf.com/news/71979.html"], "tool_release_date": ["2015-07-09"], "tool_desc": ["这个设备可以让你“隐身”连WiFi"]}
+{"tool_url": ["http://www.freebuf.com/tools/71668.html"], "tool_release_date": ["2015-07-06"], "tool_desc": ["如何给中国菜刀添加隐蔽后门"]}
+{"tool_url": ["http://www.freebuf.com/tools/71587.html"], "tool_release_date": ["2015-07-05"], "tool_desc": ["两款免费的Android应用代码安全检测工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/71528.html"], "tool_release_date": ["2015-07-02"], "tool_desc": ["交互式SSH蜜罐 – Cowrie"]}
+{"tool_url": ["http://www.freebuf.com/tools/71153.html"], "tool_release_date": ["2015-06-30"], "tool_desc": ["国产安全扫描器北极熊V2.9新版发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/71230.html"], "tool_release_date": ["2015-06-30"], "tool_desc": ["动态Shellcode注入工具 – Shellter"]}
+{"tool_url": ["http://www.freebuf.com/tools/71241.html"], "tool_release_date": ["2015-06-30"], "tool_desc": ["Web下也能玩SQLMap了：基于PHP开发的SQLMAP-Web-GUI"]}
+{"tool_url": ["http://www.freebuf.com/tools/619.html"], "tool_release_date": ["2012-05-03"], "tool_desc": ["支持验证码的web登录破解工具 – cintruder"]}
+{"tool_url": ["http://www.freebuf.com/tools/614.html"], "tool_release_date": ["2012-05-03"], "tool_desc": ["SQL注入工具-SQLSentinel_v_0.1_beta"]}
+{"tool_url": ["http://www.freebuf.com/tools/521.html"], "tool_release_date": ["2012-05-02"], "tool_desc": ["GirlzSoft（本机缓存密码读取工具）"]}
+{"tool_url": ["http://www.freebuf.com/tools/444.html"], "tool_release_date": ["2012-05-02"], "tool_desc": ["自动化中间人攻击工具 – subterfuge"]}
+{"tool_url": ["http://www.freebuf.com/tools/426.html"], "tool_release_date": ["2012-05-02"], "tool_desc": ["密码破解软件，Ophcrack 3.4.0 发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/260.html"], "tool_release_date": ["2012-04-28"], "tool_desc": ["SqlMap GUI"]}
+{"tool_url": ["http://www.freebuf.com/tools/181.html"], "tool_release_date": ["2012-04-27"], "tool_desc": ["CERT发布Linux安全工具Triage Tools 1.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/1259.html"], "tool_release_date": ["2012-05-11"], "tool_desc": ["ScScanner 扫描器"]}
+{"tool_url": ["http://www.freebuf.com/tools/1266.html"], "tool_release_date": ["2012-05-10"], "tool_desc": ["burpsuite_pro_v1.4.01破解版"]}
+{"tool_url": ["http://www.freebuf.com/tools/1243.html"], "tool_release_date": ["2012-05-10"], "tool_desc": ["Acunetix Web Vulnerability Scanner更新包含php-cgi漏洞检测"]}
+{"tool_url": ["http://www.freebuf.com/tools/1220.html"], "tool_release_date": ["2012-05-10"], "tool_desc": [".svn目录泄漏利用脚本"]}
+{"tool_url": ["http://www.freebuf.com/tools/1105.html"], "tool_release_date": ["2012-05-08"], "tool_desc": ["CVE-2012-1823 php-cgi漏洞 metasploit利用脚本"]}
+{"tool_url": ["http://www.freebuf.com/tools/1062.html"], "tool_release_date": ["2012-05-08"], "tool_desc": ["wordpress安全插件推荐-MJP Security Plugin"]}
+{"tool_url": ["http://www.freebuf.com/tools/1032.html"], "tool_release_date": ["2012-05-07"], "tool_desc": ["恶意软件检测工具-DensityScout"]}
+{"tool_url": ["http://www.freebuf.com/tools/922.html"], "tool_release_date": ["2012-05-05"], "tool_desc": ["Facebook社工工具-FBPwn 0.1.8"]}
+{"tool_url": ["http://www.freebuf.com/tools/905.html"], "tool_release_date": ["2012-05-05"], "tool_desc": ["CVE-2012-1823 PHP-CGI漏洞批量扫描脚本"]}
+{"tool_url": ["http://www.freebuf.com/tools/752.html"], "tool_release_date": ["2012-05-04"], "tool_desc": ["Backtrack全版本下载地址及汉化详细过程"]}
+{"tool_url": ["http://www.freebuf.com/tools/740.html"], "tool_release_date": ["2012-05-04"], "tool_desc": ["恐怖组织必备加密工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/721.html"], "tool_release_date": ["2012-05-04"], "tool_desc": ["md5/phppass等破解工具-oclHashcat-plus 0.08"]}
+{"tool_url": ["http://www.freebuf.com/tools/713.html"], "tool_release_date": ["2012-05-04"], "tool_desc": ["安全框架-Razorback 0.5.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/689.html"], "tool_release_date": ["2012-05-04"], "tool_desc": ["支持验证码的web登录破解工具 – cintruder"]}
+{"tool_url": ["http://www.freebuf.com/tools/687.html"], "tool_release_date": ["2012-05-04"], "tool_desc": ["开源linux远程控制工具 – n00bRAT"]}
+{"tool_url": ["http://www.freebuf.com/tools/632.html"], "tool_release_date": ["2012-05-03"], "tool_desc": ["WPBforce – WordPress Brute Force by Gothie"]}
+{"tool_url": ["http://www.freebuf.com/tools/1599.html"], "tool_release_date": ["2012-05-16"], "tool_desc": ["web-sorrow – 远程网络安全扫描器(枚举/版本检测等)"]}
+{"tool_url": ["http://www.freebuf.com/tools/1591.html"], "tool_release_date": ["2012-05-16"], "tool_desc": ["DNS加密工具发布Windows版"]}
+{"tool_url": ["http://www.freebuf.com/tools/1541.html"], "tool_release_date": ["2012-05-16"], "tool_desc": ["无限流量,无限用户,不强制掉线免费翻墙VPN（更新地址)"]}
+{"tool_url": ["http://www.freebuf.com/tools/1570.html"], "tool_release_date": ["2012-05-16"], "tool_desc": ["解码GWT小工具-degwt"]}
+{"tool_url": ["http://www.freebuf.com/tools/1509.html"], "tool_release_date": ["2012-05-15"], "tool_desc": ["CrackDB 数据库破解工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/1466.html"], "tool_release_date": ["2012-05-15"], "tool_desc": ["Webvulscan – web应用漏洞黑盒扫描器"]}
+{"tool_url": ["http://www.freebuf.com/tools/1442.html"], "tool_release_date": ["2012-05-14"], "tool_desc": ["开放式漏洞评估系统OpenVAS 5发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/1439.html"], "tool_release_date": ["2012-05-14"], "tool_desc": ["逆向模拟通信工具-netzob 0.3.2"]}
+{"tool_url": ["http://www.freebuf.com/tools/1419.html"], "tool_release_date": ["2012-05-14"], "tool_desc": ["SQL注入工具 – sqlcake"]}
+{"tool_url": ["http://www.freebuf.com/tools/1417.html"], "tool_release_date": ["2012-05-14"], "tool_desc": ["windows错误代码查询-Windows Error Lookup Tool"]}
+{"tool_url": ["http://www.freebuf.com/tools/1400.html"], "tool_release_date": ["2012-05-14"], "tool_desc": ["python写的oracle默认用户猜解"]}
+{"tool_url": ["http://www.freebuf.com/tools/1354.html"], "tool_release_date": ["2012-05-11"], "tool_desc": ["Acunetix Web Vulnerability Scanner 8.x Consultant Edition KeyGen By Hmily[LCG]"]}
+{"tool_url": ["http://www.freebuf.com/tools/1319.html"], "tool_release_date": ["2012-05-11"], "tool_desc": ["自动化模糊测试框架（BFF）- linux和Mac OS X上的fuzzer工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/1315.html"], "tool_release_date": ["2012-05-11"], "tool_desc": ["数字取证工具包-SIFT"]}
+{"tool_url": ["http://www.freebuf.com/tools/1325.html"], "tool_release_date": ["2012-05-11"], "tool_desc": ["社工利器—theHavrest"]}
+{"tool_url": ["http://www.freebuf.com/tools/1211.html"], "tool_release_date": ["2012-05-11"], "tool_desc": ["PDF恶意文档分析工具 – PdfStreamDumper"]}
+{"tool_url": ["http://www.freebuf.com/tools/2079.html"], "tool_release_date": ["2012-05-25"], "tool_desc": ["Burp Suite详细使用教程-Intruder模块详解"]}
+{"tool_url": ["http://www.freebuf.com/tools/2056.html"], "tool_release_date": ["2012-05-24"], "tool_desc": ["CSRF漏洞利用/测试工具 – CSRF Request Builder"]}
+{"tool_url": ["http://www.freebuf.com/tools/1973.html"], "tool_release_date": ["2012-05-23"], "tool_desc": ["[合集]CMS渗透测试工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/1941.html"], "tool_release_date": ["2012-05-22"], "tool_desc": ["phpcodegen-library[php生成shellcode函数库]"]}
+{"tool_url": ["http://www.freebuf.com/tools/1905.html"], "tool_release_date": ["2012-05-22"], "tool_desc": ["无线破解工具Wifislax 4.1发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/1900.html"], "tool_release_date": ["2012-05-22"], "tool_desc": ["通用漏洞报告模板 (CVRF) v1.1"]}
+{"tool_url": ["http://www.freebuf.com/tools/1895.html"], "tool_release_date": ["2012-05-22"], "tool_desc": ["网络安全审计工具 Nmap 6 正式版发布，支持 IPv6"]}
+{"tool_url": ["http://www.freebuf.com/tools/1833.html"], "tool_release_date": ["2012-05-21"], "tool_desc": ["Web服务器压力测试工具 – HULK"]}
+{"tool_url": ["http://www.freebuf.com/tools/1804.html"], "tool_release_date": ["2012-05-21"], "tool_desc": ["Web表单破解工具 – Brute Forcer v1.1"]}
+{"tool_url": ["http://www.freebuf.com/tools/1778.html"], "tool_release_date": ["2012-05-20"], "tool_desc": ["XOIC DDOS压力测试工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/1749.html"], "tool_release_date": ["2012-05-19"], "tool_desc": ["暴力破解工具THC-Hydra V6.0 WIN版"]}
+{"tool_url": ["http://www.freebuf.com/tools/1725.html"], "tool_release_date": ["2012-05-18"], "tool_desc": ["入侵检测系统 Snort 2.9.2.3 发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/1706.html"], "tool_release_date": ["2012-05-18"], "tool_desc": ["[Quarks PwDump]Hash dump神器"]}
+{"tool_url": ["http://www.freebuf.com/tools/1717.html"], "tool_release_date": ["2012-05-18"], "tool_desc": ["TrueCrypt破解工具 – truecrack"]}
+{"tool_url": ["http://www.freebuf.com/tools/1664.html"], "tool_release_date": ["2012-05-17"], "tool_desc": ["防0day工具 EMET V3官方发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/1606.html"], "tool_release_date": ["2012-05-16"], "tool_desc": ["php的代码混淆工具-carbylamine"]}
+{"tool_url": ["http://www.freebuf.com/tools/2776.html"], "tool_release_date": ["2012-05-31"], "tool_desc": ["Flame(超级火焰)病毒清除工具以及手工清除方法"]}
+{"tool_url": ["http://www.freebuf.com/tools/2766.html"], "tool_release_date": ["2012-05-31"], "tool_desc": ["隐藏IP软件-Hide My IP 5.3"]}
+{"tool_url": ["http://www.freebuf.com/tools/2723.html"], "tool_release_date": ["2012-05-31"], "tool_desc": ["密码爆破工具-Medusa 2.1.1发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/2682.html"], "tool_release_date": ["2012-05-30"], "tool_desc": ["Web服务器文件监控平台-Falcon"]}
+{"tool_url": ["http://www.freebuf.com/tools/2633.html"], "tool_release_date": ["2012-05-30"], "tool_desc": ["大规模wep/wpa破解工具 – wifite v2发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/2629.html"], "tool_release_date": ["2012-05-30"], "tool_desc": ["自动化中间人攻击工具 – subterfuge 3.0发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/2620.html"], "tool_release_date": ["2012-05-30"], "tool_desc": ["ruby写的SQL注入工具-sqlcake 1.1 发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/2601.html"], "tool_release_date": ["2012-05-30"], "tool_desc": ["透明可扩展的SSL调试工具 – SSLsplit"]}
+{"tool_url": ["http://www.freebuf.com/tools/2537.html"], "tool_release_date": ["2012-05-29"], "tool_desc": ["Wireshark1.6.8 Released"]}
+{"tool_url": ["http://www.freebuf.com/tools/2521.html"], "tool_release_date": ["2012-05-29"], "tool_desc": ["[TOP10]最受欢迎的10个Metasploit模块和插件"]}
+{"tool_url": ["http://www.freebuf.com/tools/2514.html"], "tool_release_date": ["2012-05-29"], "tool_desc": ["Post Exploitation工具 – PowerSploit"]}
+{"tool_url": ["http://www.freebuf.com/tools/2508.html"], "tool_release_date": ["2012-05-29"], "tool_desc": ["Post Exploitation工具 – PhantomJS"]}
+{"tool_url": ["http://www.freebuf.com/tools/2504.html"], "tool_release_date": ["2012-05-29"], "tool_desc": ["Web压力测试工具 JMeter 2.7 发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/2497.html"], "tool_release_date": ["2012-05-28"], "tool_desc": ["PDF密码删除工具-InstantPDFPasswordRemover v1.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/2311.html"], "tool_release_date": ["2012-05-28"], "tool_desc": ["[技巧]使用Burpsuite辅助Sqlmap进行POST注入测试"]}
+{"tool_url": ["http://www.freebuf.com/tools/2170.html"], "tool_release_date": ["2012-05-25"], "tool_desc": ["Burp Suite python扩展 – Burpy"]}
+{"tool_url": ["http://www.freebuf.com/tools/3521.html"], "tool_release_date": ["2012-06-07"], "tool_desc": ["Dreamweaver密码解密恢复软件 – DreamweaverPasswordDecryptor 1.5"]}
+{"tool_url": ["http://www.freebuf.com/tools/3503.html"], "tool_release_date": ["2012-06-07"], "tool_desc": ["[Python脚本]Admin Finder管理后台扫描工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/3498.html"], "tool_release_date": ["2012-06-07"], "tool_desc": ["网络安全侦察工具Firewalking"]}
+{"tool_url": ["http://www.freebuf.com/tools/3492.html"], "tool_release_date": ["2012-06-07"], "tool_desc": ["GPU hash破解工具- Extreme GPU Bruteforcer 2.2"]}
+{"tool_url": ["http://www.freebuf.com/tools/3399.html"], "tool_release_date": ["2012-06-06"], "tool_desc": ["web渗透测试套件-WebSploit 1.8"]}
+{"tool_url": ["http://www.freebuf.com/tools/3395.html"], "tool_release_date": ["2012-06-06"], "tool_desc": ["破解工具包-cyb3rjunk13"]}
+{"tool_url": ["http://www.freebuf.com/tools/3390.html"], "tool_release_date": ["2012-06-06"], "tool_desc": ["自动化渗透测试脚本Discover"]}
+{"tool_url": ["http://www.freebuf.com/tools/3369.html"], "tool_release_date": ["2012-06-06"], "tool_desc": ["[技巧]Burp Intruder中的Timing选项的使用"]}
+{"tool_url": ["http://www.freebuf.com/tools/3283.html"], "tool_release_date": ["2012-06-05"], "tool_desc": ["PDF恶意文档分析-PDFScope"]}
+{"tool_url": ["http://www.freebuf.com/tools/3275.html"], "tool_release_date": ["2012-06-05"], "tool_desc": ["下一代模糊测试框架 – Dizzy"]}
+{"tool_url": ["http://www.freebuf.com/tools/3175.html"], "tool_release_date": ["2012-06-04"], "tool_desc": ["[嗅探神器]Intercepter,支持当前所有流行OS"]}
+{"tool_url": ["http://www.freebuf.com/tools/3161.html"], "tool_release_date": ["2012-06-04"], "tool_desc": ["SQL数据库安全审计工具-xSQL Scanner1.6"]}
+{"tool_url": ["http://www.freebuf.com/tools/3122.html"], "tool_release_date": ["2012-06-03"], "tool_desc": ["pWebSuite-基于Perl的Web应用渗透测试套件"]}
+{"tool_url": ["http://www.freebuf.com/tools/3106.html"], "tool_release_date": ["2012-06-02"], "tool_desc": ["暴力破解工具-Hydra 7.3 windows版本"]}
+{"tool_url": ["http://www.freebuf.com/tools/3097.html"], "tool_release_date": ["2012-06-02"], "tool_desc": ["开源数字调查/取证工具 – Sleuth Kit v4.0.0 Beta1"]}
+{"tool_url": ["http://www.freebuf.com/tools/2871.html"], "tool_release_date": ["2012-06-01"], "tool_desc": ["Web漏洞检查工具Wapiti"]}
+{"tool_url": ["http://www.freebuf.com/tools/4136.html"], "tool_release_date": ["2012-06-15"], "tool_desc": ["web安全训练和教学光盘 – GameOver"]}
+{"tool_url": ["http://www.freebuf.com/tools/4060.html"], "tool_release_date": ["2012-06-14"], "tool_desc": ["[更新]攻防演练系统 – Metasploitable V2"]}
+{"tool_url": ["http://www.freebuf.com/tools/4056.html"], "tool_release_date": ["2012-06-14"], "tool_desc": ["XSS过滤器 – DeXSS V1.2"]}
+{"tool_url": ["http://www.freebuf.com/tools/3970.html"], "tool_release_date": ["2012-06-13"], "tool_desc": ["[更新]一款非常不错的dll注入器 – RemoteDLL V2"]}
+{"tool_url": ["http://www.freebuf.com/tools/4007.html"], "tool_release_date": ["2012-06-13"], "tool_desc": ["用来检查CVE-2012-2122漏洞的C程序"]}
+{"tool_url": ["http://www.freebuf.com/tools/3983.html"], "tool_release_date": ["2012-06-13"], "tool_desc": ["彩虹表下载地址大集合"]}
+{"tool_url": ["http://www.freebuf.com/tools/3957.html"], "tool_release_date": ["2012-06-13"], "tool_desc": ["[更新]一款强大的远控 – DarkComet RAT V5.3.1"]}
+{"tool_url": ["http://www.freebuf.com/tools/3942.html"], "tool_release_date": ["2012-06-12"], "tool_desc": ["MD5破解工具iCrack"]}
+{"tool_url": ["http://www.freebuf.com/tools/3939.html"], "tool_release_date": ["2012-06-12"], "tool_desc": ["Webshell扫描工具WebShellDetector V1.51"]}
+{"tool_url": ["http://www.freebuf.com/tools/3841.html"], "tool_release_date": ["2012-06-12"], "tool_desc": ["SQL盲注工具-Blind Cat"]}
+{"tool_url": ["http://www.freebuf.com/tools/3693.html"], "tool_release_date": ["2012-06-12"], "tool_desc": ["[连载]Burp Suite详细使用教程-Intruder模块详解(2)"]}
+{"tool_url": ["http://www.freebuf.com/tools/3778.html"], "tool_release_date": ["2012-06-11"], "tool_desc": ["入侵检测系统-Suricata 1.3 Beta2 发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/3743.html"], "tool_release_date": ["2012-06-11"], "tool_desc": ["[更新]Webvulscan 0.12– web应用漏洞黑盒扫描器"]}
+{"tool_url": ["http://www.freebuf.com/tools/3688.html"], "tool_release_date": ["2012-06-10"], "tool_desc": ["浏览器漏洞利用框架BeEF 0.4.3.5 Released"]}
+{"tool_url": ["http://www.freebuf.com/tools/3629.html"], "tool_release_date": ["2012-06-08"], "tool_desc": ["BT5字典生成工具包 – Thad0ctor’s 1.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/3622.html"], "tool_release_date": ["2012-06-08"], "tool_desc": ["Web Form扫描器 – LiLith"]}
+{"tool_url": ["http://www.freebuf.com/tools/4746.html"], "tool_release_date": ["2012-06-28"], "tool_desc": ["[更新]Gui-for-sqlmap Version17612"]}
+{"tool_url": ["http://www.freebuf.com/tools/4723.html"], "tool_release_date": ["2012-06-27"], "tool_desc": ["Android会话劫持安全测试工具DroidSheep"]}
+{"tool_url": ["http://www.freebuf.com/tools/4708.html"], "tool_release_date": ["2012-06-27"], "tool_desc": ["[TOP10]十大渗透测试演练系统"]}
+{"tool_url": ["http://www.freebuf.com/tools/4695.html"], "tool_release_date": ["2012-06-26"], "tool_desc": ["开源的暴力破解工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/4689.html"], "tool_release_date": ["2012-06-26"], "tool_desc": ["自定义bash脚本定制自动化各种渗透测试任务"]}
+{"tool_url": ["http://www.freebuf.com/tools/4684.html"], "tool_release_date": ["2012-06-25"], "tool_desc": ["Nmap SQL注入扫描插件Http-sql-injection"]}
+{"tool_url": ["http://www.freebuf.com/tools/4542.html"], "tool_release_date": ["2012-06-23"], "tool_desc": ["[更新]BackBox Linux 2.05"]}
+{"tool_url": ["http://www.freebuf.com/tools/4471.html"], "tool_release_date": ["2012-06-21"], "tool_desc": ["无线渗透测试套件PwnSTAR 0.7"]}
+{"tool_url": ["http://www.freebuf.com/tools/4344.html"], "tool_release_date": ["2012-06-20"], "tool_desc": ["跨目录渗透字符集"]}
+{"tool_url": ["http://www.freebuf.com/tools/4274.html"], "tool_release_date": ["2012-06-18"], "tool_desc": ["开源WAF（modsecurity）更新版本至2.6.6"]}
+{"tool_url": ["http://www.freebuf.com/tools/4261.html"], "tool_release_date": ["2012-06-18"], "tool_desc": ["快速的渗透测试套件 – Raspberry Pwn"]}
+{"tool_url": ["http://www.freebuf.com/tools/4226.html"], "tool_release_date": ["2012-06-18"], "tool_desc": ["unix反病毒工具包 – Clam AntiVirus Toolkit 0.97.5"]}
+{"tool_url": ["http://www.freebuf.com/tools/4172.html"], "tool_release_date": ["2012-06-16"], "tool_desc": ["暴雷漏洞(CVE-2012-1889)Metasploit利用代码"]}
+{"tool_url": ["http://www.freebuf.com/tools/4086.html"], "tool_release_date": ["2012-06-16"], "tool_desc": ["字典生成工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/4119.html"], "tool_release_date": ["2012-06-15"], "tool_desc": ["[更新]GPU hash破解工具 – Cryptohaze Multiforcer 1.31a"]}
+{"tool_url": ["http://www.freebuf.com/tools/4085.html"], "tool_release_date": ["2012-06-15"], "tool_desc": ["WordPress后台密码暴力破解"]}
+{"tool_url": ["http://www.freebuf.com/tools/4976.html"], "tool_release_date": ["2012-07-13"], "tool_desc": ["[更新]SSL密钥算法检测工具-sslciphercheck v1.4.2"]}
+{"tool_url": ["http://www.freebuf.com/tools/4970.html"], "tool_release_date": ["2012-07-13"], "tool_desc": ["OWASP浏览器框架（安全工具套件）Mantra"]}
+{"tool_url": ["http://www.freebuf.com/tools/4959.html"], "tool_release_date": ["2012-07-11"], "tool_desc": ["IIS短文件漏洞安全扫描工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/4955.html"], "tool_release_date": ["2012-07-11"], "tool_desc": ["渗透测试专用浏览器Sandcat"]}
+{"tool_url": ["http://www.freebuf.com/tools/4941.html"], "tool_release_date": ["2012-07-10"], "tool_desc": ["[更新]WEB服务测试工具 – HTTPTEST V2.2.8"]}
+{"tool_url": ["http://www.freebuf.com/tools/4940.html"], "tool_release_date": ["2012-07-10"], "tool_desc": ["用Nmap脚本检测Poison Ivy Rat控制端"]}
+{"tool_url": ["http://www.freebuf.com/tools/4882.html"], "tool_release_date": ["2012-07-06"], "tool_desc": ["Windows注册表密码信息提取工具Creddump"]}
+{"tool_url": ["http://www.freebuf.com/tools/4880.html"], "tool_release_date": ["2012-07-06"], "tool_desc": ["IPv6攻击测试工具包-THC IPV6 V1.9"]}
+{"tool_url": ["http://www.freebuf.com/tools/4876.html"], "tool_release_date": ["2012-07-05"], "tool_desc": ["使用Proxmark3进行MIFARE Classic卡的安全测试"]}
+{"tool_url": ["http://www.freebuf.com/tools/4865.html"], "tool_release_date": ["2012-07-05"], "tool_desc": ["Web应用安全审计工具-WATOBO 0.9.9.pre1发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/4862.html"], "tool_release_date": ["2012-07-05"], "tool_desc": ["Linux的IPsec项目-strongSwan 5.0发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/4834.html"], "tool_release_date": ["2012-07-04"], "tool_desc": ["[原创工具]替换服务提权可能性检查工具chkPriv"]}
+{"tool_url": ["http://www.freebuf.com/tools/4832.html"], "tool_release_date": ["2012-07-03"], "tool_desc": ["蜜罐系统 – Artillery 0.5.1 alpha发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/4799.html"], "tool_release_date": ["2012-07-02"], "tool_desc": ["如何在BeEF中使用metasploit颠覆你的浏览器"]}
+{"tool_url": ["http://www.freebuf.com/tools/4771.html"], "tool_release_date": ["2012-06-30"], "tool_desc": ["burpsuite_pro_v1.4.07破解版"]}
+{"tool_url": ["http://www.freebuf.com/tools/4768.html"], "tool_release_date": ["2012-06-29"], "tool_desc": ["burpsuite v1.4.10发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/5068.html"], "tool_release_date": ["2012-07-24"], "tool_desc": ["XSS漏洞扫描器 – Xelenium"]}
+{"tool_url": ["http://www.freebuf.com/tools/5069.html"], "tool_release_date": ["2012-07-24"], "tool_desc": ["[更新]开源渗透测试框架 – HconSTF V0.4"]}
+{"tool_url": ["http://www.freebuf.com/tools/5067.html"], "tool_release_date": ["2012-07-23"], "tool_desc": ["社会工程学工具集Social-Engineer Toolkit (SET) v3.5.1"]}
+{"tool_url": ["http://www.freebuf.com/tools/5063.html"], "tool_release_date": ["2012-07-23"], "tool_desc": ["[BlackHat专题]智能电表黑客工具 – termineter发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/5045.html"], "tool_release_date": ["2012-07-22"], "tool_desc": ["一个扫目录扫后台的工具【Sensitive Buster v 1.0】"]}
+{"tool_url": ["http://www.freebuf.com/tools/5049.html"], "tool_release_date": ["2012-07-22"], "tool_desc": ["[更新]QuarksPwDump V0.2b"]}
+{"tool_url": ["http://www.freebuf.com/tools/5043.html"], "tool_release_date": ["2012-07-21"], "tool_desc": ["渗透测试工具 – WS-Attacker 1.1"]}
+{"tool_url": ["http://www.freebuf.com/tools/5032.html"], "tool_release_date": ["2012-07-20"], "tool_desc": ["远程控制工具—RAIORemote"]}
+{"tool_url": ["http://www.freebuf.com/tools/5028.html"], "tool_release_date": ["2012-07-19"], "tool_desc": ["[更新]WIFI密码查找工具 – UFO WARDRIVING V1.7"]}
+{"tool_url": ["http://www.freebuf.com/tools/5024.html"], "tool_release_date": ["2012-07-19"], "tool_desc": ["[更新]Web应用程序扫描器评估工具-wavsep V1.2"]}
+{"tool_url": ["http://www.freebuf.com/tools/5004.html"], "tool_release_date": ["2012-07-18"], "tool_desc": ["[更新]Metasploit 4.4版本发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/4993.html"], "tool_release_date": ["2012-07-17"], "tool_desc": ["ViewState解码工具-ViewStateHacker.v.1.0.4"]}
+{"tool_url": ["http://www.freebuf.com/tools/4991.html"], "tool_release_date": ["2012-07-16"], "tool_desc": ["Java GUI界面SQL注入工具 – JSQL"]}
+{"tool_url": ["http://www.freebuf.com/tools/4987.html"], "tool_release_date": ["2012-07-16"], "tool_desc": ["Win下渗透测试工具WinPentest v1.3.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/4981.html"], "tool_release_date": ["2012-07-15"], "tool_desc": ["开源入侵检测系统引擎Suricata IDPE 1.3"]}
+{"tool_url": ["http://www.freebuf.com/tools/4980.html"], "tool_release_date": ["2012-07-15"], "tool_desc": ["渗透测试演练工具（VM）OWASPBWA1.0 RC2"]}
+{"tool_url": ["http://www.freebuf.com/tools/5259.html"], "tool_release_date": ["2012-08-06"], "tool_desc": ["[BlackHat2012工具]ThreadFix漏洞聚合解决方案V1.0 Beta2"]}
+{"tool_url": ["http://www.freebuf.com/tools/5255.html"], "tool_release_date": ["2012-08-06"], "tool_desc": ["无线cookie劫持工具-Fern Cookie Hijacker"]}
+{"tool_url": ["http://www.freebuf.com/tools/5251.html"], "tool_release_date": ["2012-08-05"], "tool_desc": ["[BlackHat2012工具]智能手机渗透测试框架（SPF）V0.1"]}
+{"tool_url": ["http://www.freebuf.com/tools/5248.html"], "tool_release_date": ["2012-08-05"], "tool_desc": ["[BlackHat2012工具]开源Web应用扫描器Vega1.0 Beta"]}
+{"tool_url": ["http://www.freebuf.com/tools/5246.html"], "tool_release_date": ["2012-08-05"], "tool_desc": ["[BlackHat2012工具]Google Hacking Diggity工具集"]}
+{"tool_url": ["http://www.freebuf.com/tools/5236.html"], "tool_release_date": ["2012-08-03"], "tool_desc": ["[Python脚本]匿名FTP扫描工具—FtpScan"]}
+{"tool_url": ["http://www.freebuf.com/tools/5216.html"], "tool_release_date": ["2012-08-01"], "tool_desc": ["HTExploit—HiperText access Exploit"]}
+{"tool_url": ["http://www.freebuf.com/tools/5212.html"], "tool_release_date": ["2012-08-01"], "tool_desc": ["密码哈希破解工具-Hash Kracker V1.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/5201.html"], "tool_release_date": ["2012-07-31"], "tool_desc": ["智能手机渗透测试框架 – SPF V0.1"]}
+{"tool_url": ["http://www.freebuf.com/tools/5165.html"], "tool_release_date": ["2012-07-31"], "tool_desc": ["渗透测试、电子取证系统 – Bugtraq-I"]}
+{"tool_url": ["http://www.freebuf.com/tools/5198.html"], "tool_release_date": ["2012-07-31"], "tool_desc": ["BackTrack5 R3 黑帽版本 发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/5156.html"], "tool_release_date": ["2012-07-30"], "tool_desc": ["提权辅助小工具-查看文件访问控制列表-checkacl"]}
+{"tool_url": ["http://www.freebuf.com/tools/5155.html"], "tool_release_date": ["2012-07-30"], "tool_desc": ["PHP代码审计系统—RIPS"]}
+{"tool_url": ["http://www.freebuf.com/tools/5152.html"], "tool_release_date": ["2012-07-29"], "tool_desc": ["多主机远程脚本执行工具—RemoteScript"]}
+{"tool_url": ["http://www.freebuf.com/articles/5138.html"], "tool_release_date": ["2012-07-27"], "tool_desc": ["脚本本地/远程文件包含/读取及文件名截断漏洞FUZZ工具详解"]}
+{"tool_url": ["http://www.freebuf.com/tools/5078.html"], "tool_release_date": ["2012-07-25"], "tool_desc": ["以太网数据包​生成器PACKETH"]}
+{"tool_url": ["http://www.freebuf.com/tools/5390.html"], "tool_release_date": ["2012-08-16"], "tool_desc": ["[学习资料]漏洞挖掘练习环境(linux方向)"]}
+{"tool_url": ["http://www.freebuf.com/tools/5376.html"], "tool_release_date": ["2012-08-15"], "tool_desc": ["[整理]Android平台下渗透测试工具大集合"]}
+{"tool_url": ["http://www.freebuf.com/tools/5369.html"], "tool_release_date": ["2012-08-14"], "tool_desc": ["盲注（Blind SQL Injection）工具—BBQSQL v1.0.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/5361.html"], "tool_release_date": ["2012-08-14"], "tool_desc": ["34款Firefox渗透测试插件"]}
+{"tool_url": ["http://www.freebuf.com/tools/5363.html"], "tool_release_date": ["2012-08-14"], "tool_desc": ["BackTrack5 R3发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/5352.html"], "tool_release_date": ["2012-08-13"], "tool_desc": ["一个“神奇”的工具：把 JavaScript 代码转为 ()[]{}!+ 字符"]}
+{"tool_url": ["http://www.freebuf.com/tools/5347.html"], "tool_release_date": ["2012-08-12"], "tool_desc": ["Burp Suite V1.4.12发布: 新增破解Android SSL功能"]}
+{"tool_url": ["http://www.freebuf.com/tools/5346.html"], "tool_release_date": ["2012-08-10"], "tool_desc": ["SqlmapGUI汉化修正版软件及中文使用说明"]}
+{"tool_url": ["http://www.freebuf.com/tools/5335.html"], "tool_release_date": ["2012-08-10"], "tool_desc": ["渗透测试系统 – NETSECLOS V4.0发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/5295.html"], "tool_release_date": ["2012-08-09"], "tool_desc": ["Web应用防篡改工具—AntiDef"]}
+{"tool_url": ["http://www.freebuf.com/tools/5293.html"], "tool_release_date": ["2012-08-08"], "tool_desc": ["[BlackHat2012工具]PDF安全检测工具Peepdf V0.2"]}
+{"tool_url": ["http://www.freebuf.com/tools/5290.html"], "tool_release_date": ["2012-08-08"], "tool_desc": ["Web渗透测试工具-WAppEx"]}
+{"tool_url": ["http://www.freebuf.com/tools/5282.html"], "tool_release_date": ["2012-08-07"], "tool_desc": ["17个不同的端口扫描器下载"]}
+{"tool_url": ["http://www.freebuf.com/tools/5263.html"], "tool_release_date": ["2012-08-07"], "tool_desc": ["Web防火墙（WAF）绕过检测工具-IronBee"]}
+{"tool_url": ["http://www.freebuf.com/tools/5280.html"], "tool_release_date": ["2012-08-07"], "tool_desc": ["[BlackHat2012工具]微型设备(Teensy)渗透测试脚本集Kautilya"]}
+{"tool_url": ["http://www.freebuf.com/tools/5262.html"], "tool_release_date": ["2012-08-06"], "tool_desc": ["Linux主机和MySQL实时监控工具-orzdba"]}
+{"tool_url": ["http://www.freebuf.com/tools/5552.html"], "tool_release_date": ["2012-09-05"], "tool_desc": ["SQL注入检测神器Netsparker CE 2.3 released"]}
+{"tool_url": ["http://www.freebuf.com/tools/5553.html"], "tool_release_date": ["2012-09-05"], "tool_desc": ["[更新]网络安全扫描工具-Skipfish v2.09b"]}
+{"tool_url": ["http://www.freebuf.com/tools/5503.html"], "tool_release_date": ["2012-09-03"], "tool_desc": ["RSA2012参会感想：Scada工控安全审计工具ScadaScan"]}
+{"tool_url": ["http://www.freebuf.com/tools/5508.html"], "tool_release_date": ["2012-09-01"], "tool_desc": ["Windows主机IDS—Patriot NG 2.01"]}
+{"tool_url": ["http://www.freebuf.com/tools/5504.html"], "tool_release_date": ["2012-08-30"], "tool_desc": ["社会工程学工具集Social-Engineer Toolkit (SET) v3.7.1发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/5483.html"], "tool_release_date": ["2012-08-27"], "tool_desc": ["WebCruiser Web Vulnerability Scanner iPhone&iPad版"]}
+{"tool_url": ["http://www.freebuf.com/tools/5481.html"], "tool_release_date": ["2012-08-27"], "tool_desc": ["路由器密码破解工具-Kracker"]}
+{"tool_url": ["http://www.freebuf.com/tools/5470.html"], "tool_release_date": ["2012-08-24"], "tool_desc": ["Android开源安全评估框架-ASEF"]}
+{"tool_url": ["http://www.freebuf.com/tools/5453.html"], "tool_release_date": ["2012-08-22"], "tool_desc": ["X-Fuzzer – 动态浏览器Fuzz工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/5457.html"], "tool_release_date": ["2012-08-22"], "tool_desc": ["中间人攻击(MITM)防御工具—Etherwall v1.0 Beta3"]}
+{"tool_url": ["http://www.freebuf.com/tools/5444.html"], "tool_release_date": ["2012-08-21"], "tool_desc": ["快速检测恶意RTF文件的POC"]}
+{"tool_url": ["http://www.freebuf.com/tools/5442.html"], "tool_release_date": ["2012-08-21"], "tool_desc": ["Web漏洞扫描器-UNISCAN 6.2发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/5440.html"], "tool_release_date": ["2012-08-21"], "tool_desc": ["Sendrawpdu—Iphone短信欺骗工具发布下载"]}
+{"tool_url": ["http://www.freebuf.com/tools/5436.html"], "tool_release_date": ["2012-08-20"], "tool_desc": ["Chrome浏览器跨站渗透测试框架—XSS ChEF v1.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/5427.html"], "tool_release_date": ["2012-08-20"], "tool_desc": ["ZAP介绍"]}
+{"tool_url": ["http://www.freebuf.com/tools/5428.html"], "tool_release_date": ["2012-08-19"], "tool_desc": ["Email钓鱼测试工具包—Phemail"]}
+{"tool_url": ["http://www.freebuf.com/tools/5742.html"], "tool_release_date": ["2012-09-21"], "tool_desc": ["Rapid7 MySQL身份认证绕过漏洞检查工具—ScanNow"]}
+{"tool_url": ["http://www.freebuf.com/tools/5740.html"], "tool_release_date": ["2012-09-21"], "tool_desc": ["[更新]GUI界面文件信息取证分析工具-FileInfo V6.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/5725.html"], "tool_release_date": ["2012-09-20"], "tool_desc": ["12306 辅助登录小工具 – 帮你登陆火车票订票网站"]}
+{"tool_url": ["http://www.freebuf.com/tools/5701.html"], "tool_release_date": ["2012-09-19"], "tool_desc": ["WEB安全扫描工具-NIkto 2.1.5发布"]}
+{"tool_url": ["http://www.freebuf.com/news/5678.html"], "tool_release_date": ["2012-09-19"], "tool_desc": ["俄罗斯自动攻击工具Black Hole更新v2.0版"]}
+{"tool_url": ["http://www.freebuf.com/tools/5679.html"], "tool_release_date": ["2012-09-18"], "tool_desc": ["开源web漏洞扫描系统-IronWASP V0.9.1.4"]}
+{"tool_url": ["http://www.freebuf.com/tools/5669.html"], "tool_release_date": ["2012-09-17"], "tool_desc": ["安全扫描工具NetSparker_2.3_PRO_Crack"]}
+{"tool_url": ["http://www.freebuf.com/tools/5668.html"], "tool_release_date": ["2012-09-17"], "tool_desc": ["安全扫描工具skipfish-v2-09b-released（Google出品）"]}
+{"tool_url": ["http://www.freebuf.com/articles/5638.html"], "tool_release_date": ["2012-09-14"], "tool_desc": ["使用Android手机驱逐Wifi内的任意IP—WiFiKill"]}
+{"tool_url": ["http://www.freebuf.com/tools/5623.html"], "tool_release_date": ["2012-09-13"], "tool_desc": ["Web应用漏洞fuzz工具 – teenage mutant ninja turtles V 1.5"]}
+{"tool_url": ["http://www.freebuf.com/tools/5609.html"], "tool_release_date": ["2012-09-13"], "tool_desc": ["XSS Exploit框架 – Xenotix"]}
+{"tool_url": ["http://www.freebuf.com/tools/5605.html"], "tool_release_date": ["2012-09-12"], "tool_desc": ["Hash破解工具John the Ripper​ GUI—John Of yogyafree"]}
+{"tool_url": ["http://www.freebuf.com/tools/5599.html"], "tool_release_date": ["2012-09-12"], "tool_desc": ["[更新]HTTP Dos攻击压力测试工具-Slowhttptest 1.5"]}
+{"tool_url": ["http://www.freebuf.com/tools/5582.html"], "tool_release_date": ["2012-09-10"], "tool_desc": ["内网渗透测试Pivoting工具—Covert VPN"]}
+{"tool_url": ["http://www.freebuf.com/tools/5579.html"], "tool_release_date": ["2012-09-08"], "tool_desc": ["Android安全评估框架—Mercury v1.1 Released"]}
+{"tool_url": ["http://www.freebuf.com/tools/5576.html"], "tool_release_date": ["2012-09-07"], "tool_desc": ["[更新]网络入侵检测系统-Suricata 1.4 beta1 发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/5927.html"], "tool_release_date": ["2012-10-16"], "tool_desc": ["1分钟内保护你的Linux服务器—Server Shield v1.0.2"]}
+{"tool_url": ["http://www.freebuf.com/tools/5930.html"], "tool_release_date": ["2012-10-16"], "tool_desc": ["Android网络嗅探器-Pixie"]}
+{"tool_url": ["http://www.freebuf.com/tools/5906.html"], "tool_release_date": ["2012-10-13"], "tool_desc": ["Mac OS-X Rootkit发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/5876.html"], "tool_release_date": ["2012-10-11"], "tool_desc": ["Exploit防御工具—ExploitShield Browser Edition v0.7 released"]}
+{"tool_url": ["http://www.freebuf.com/tools/5879.html"], "tool_release_date": ["2012-10-11"], "tool_desc": ["绕过htaccess的限制工具-HTExploit"]}
+{"tool_url": ["http://www.freebuf.com/tools/5860.html"], "tool_release_date": ["2012-10-09"], "tool_desc": ["渗透测试框架（WIN）—winAUTOPWN v3.2 Released"]}
+{"tool_url": ["http://www.freebuf.com/tools/5858.html"], "tool_release_date": ["2012-10-09"], "tool_desc": ["Android网络渗透套件—dSploit"]}
+{"tool_url": ["http://www.freebuf.com/tools/5842.html"], "tool_release_date": ["2012-10-09"], "tool_desc": ["渗透测试报告生成工具-MagicTree"]}
+{"tool_url": ["http://www.freebuf.com/tools/5847.html"], "tool_release_date": ["2012-10-08"], "tool_desc": ["[工具]The Social-Engineer Toolkit V4.1发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/5826.html"], "tool_release_date": ["2012-09-29"], "tool_desc": ["iphone渗透测试框架—AppSec Labs iNalyzer"]}
+{"tool_url": ["http://www.freebuf.com/tools/5820.html"], "tool_release_date": ["2012-09-28"], "tool_desc": ["ERP专用渗透测试框架SAP Bizploit v1.50"]}
+{"tool_url": ["http://www.freebuf.com/tools/5804.html"], "tool_release_date": ["2012-09-27"], "tool_desc": ["DOM-based XSS扫描工具-Ra.2发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/5796.html"], "tool_release_date": ["2012-09-26"], "tool_desc": ["Havij v1.16 Pro Cracked（9.27更新警告）"]}
+{"tool_url": ["http://www.freebuf.com/tools/5759.html"], "tool_release_date": ["2012-09-24"], "tool_desc": ["[更新]渗透测试脚本-discover"]}
+{"tool_url": ["http://www.freebuf.com/tools/5750.html"], "tool_release_date": ["2012-09-23"], "tool_desc": ["利用patator进行子域名爆破"]}
+{"tool_url": ["http://www.freebuf.com/tools/5744.html"], "tool_release_date": ["2012-09-21"], "tool_desc": ["密码破解工具，John the Ripper 1.7.9-jumbo-7发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/6112.html"], "tool_release_date": ["2012-11-05"], "tool_desc": ["JBOSS服务器渗透测试工具—JBoss Autopwn"]}
+{"tool_url": ["http://www.freebuf.com/tools/6097.html"], "tool_release_date": ["2012-11-05"], "tool_desc": ["Python扫描IP段指定端口是否开放（一次扫描20个B网段没问题）"]}
+{"tool_url": ["http://www.freebuf.com/tools/6043.html"], "tool_release_date": ["2012-11-05"], "tool_desc": ["Backtrack5 R3实用新工具分析（下）"]}
+{"tool_url": ["http://www.freebuf.com/tools/6092.html"], "tool_release_date": ["2012-11-04"], "tool_desc": ["配置追踪者—Scylla v1(渗透测试工具)"]}
+{"tool_url": ["http://www.freebuf.com/tools/6090.html"], "tool_release_date": ["2012-11-03"], "tool_desc": ["Burp Suite免费版本（Free Edition）v1.5发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/6044.html"], "tool_release_date": ["2012-10-30"], "tool_desc": ["流量解码器-Xplico 1.0.1发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/6034.html"], "tool_release_date": ["2012-10-29"], "tool_desc": ["恶意程序检测软件—X-Ray 2.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/6021.html"], "tool_release_date": ["2012-10-25"], "tool_desc": ["HoneyMap-让你实时了解黑客攻击"]}
+{"tool_url": ["http://www.freebuf.com/tools/6012.html"], "tool_release_date": ["2012-10-25"], "tool_desc": ["Backtrack5 R3实用新工具分析（上）"]}
+{"tool_url": ["http://www.freebuf.com/tools/6017.html"], "tool_release_date": ["2012-10-25"], "tool_desc": ["Burp Suite PayLoad下载"]}
+{"tool_url": ["http://www.freebuf.com/tools/6009.html"], "tool_release_date": ["2012-10-24"], "tool_desc": ["自动XSS过滤突破工具—snuck"]}
+{"tool_url": ["http://www.freebuf.com/tools/5992.html"], "tool_release_date": ["2012-10-24"], "tool_desc": ["安全扫描器N-Stalker Free edition（免费版）简介及使用指南"]}
+{"tool_url": ["http://www.freebuf.com/tools/5955.html"], "tool_release_date": ["2012-10-19"], "tool_desc": ["WebSploit Framework 2.0.3发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/5950.html"], "tool_release_date": ["2012-10-18"], "tool_desc": ["H.264网络摄像头漏洞测试工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/5947.html"], "tool_release_date": ["2012-10-18"], "tool_desc": ["Android渗透测试神器新版dSploit v1.0.23b发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/5932.html"], "tool_release_date": ["2012-10-16"], "tool_desc": ["Web应用程序的调试和安全审计工具—Aletheia 0.1.1 发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/6359.html"], "tool_release_date": ["2012-11-30"], "tool_desc": ["Mini PHP漏洞检测套件-PHPMVS V1.3发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/6358.html"], "tool_release_date": ["2012-11-30"], "tool_desc": ["Nmap6.25圣诞版发布！增加85个新脚本，更优性能，Win8增强特性等"]}
+{"tool_url": ["http://www.freebuf.com/tools/6356.html"], "tool_release_date": ["2012-11-30"], "tool_desc": ["Android翻墙工具-SSHTunnel 2.0.3发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/6319.html"], "tool_release_date": ["2012-11-27"], "tool_desc": ["反向Web Shell处理工具-Shell of the Future"]}
+{"tool_url": ["http://www.freebuf.com/tools/6282.html"], "tool_release_date": ["2012-11-21"], "tool_desc": ["网络设备识别工具—NetSleuth"]}
+{"tool_url": ["http://www.freebuf.com/tools/6275.html"], "tool_release_date": ["2012-11-20"], "tool_desc": ["分布式密码分析框架-Wisecracker"]}
+{"tool_url": ["http://www.freebuf.com/tools/6261.html"], "tool_release_date": ["2012-11-20"], "tool_desc": ["pyqt IP段端口扫描工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/6240.html"], "tool_release_date": ["2012-11-16"], "tool_desc": ["[更新]无线渗透测试套件PwnSTAR"]}
+{"tool_url": ["http://www.freebuf.com/tools/6227.html"], "tool_release_date": ["2012-11-14"], "tool_desc": ["MAC OS下无线破解工具kisMAC"]}
+{"tool_url": ["http://www.freebuf.com/tools/6211.html"], "tool_release_date": ["2012-11-13"], "tool_desc": ["树莓派（Raspberry Pi）渗透测试系统—PwnPi v2.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/6208.html"], "tool_release_date": ["2012-11-12"], "tool_desc": ["TrueCrypt破解工具-TCHead"]}
+{"tool_url": ["http://www.freebuf.com/tools/6181.html"], "tool_release_date": ["2012-11-09"], "tool_desc": ["渗透测试神器Burp弹药扩充-fuzzdb"]}
+{"tool_url": ["http://www.freebuf.com/tools/6176.html"], "tool_release_date": ["2012-11-08"], "tool_desc": ["送给键盘控的两款小软件"]}
+{"tool_url": ["http://www.freebuf.com/tools/6151.html"], "tool_release_date": ["2012-11-08"], "tool_desc": ["技术宅、键盘控的福音—教你用Vimium上Freebuf"]}
+{"tool_url": ["http://www.freebuf.com/tools/6162.html"], "tool_release_date": ["2012-11-07"], "tool_desc": ["Wifi蜜罐"]}
+{"tool_url": ["http://www.freebuf.com/tools/6161.html"], "tool_release_date": ["2012-11-07"], "tool_desc": ["[更新]暴力破解工具-Patator V0.4"]}
+{"tool_url": ["http://www.freebuf.com/tools/6650.html"], "tool_release_date": ["2012-12-31"], "tool_desc": ["基于Ubuntu的移动渗透测试OS—UbnHD2"]}
+{"tool_url": ["http://www.freebuf.com/tools/6645.html"], "tool_release_date": ["2012-12-30"], "tool_desc": ["Umbrella Project 2012安全工具合集—Hacktools Ultra"]}
+{"tool_url": ["http://www.freebuf.com/tools/6601.html"], "tool_release_date": ["2012-12-26"], "tool_desc": ["IPV6 TCP端口扫描工具-topera"]}
+{"tool_url": ["http://www.freebuf.com/tools/6530.html"], "tool_release_date": ["2012-12-25"], "tool_desc": ["iAuditor—iOS APP安全审计工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/6555.html"], "tool_release_date": ["2012-12-24"], "tool_desc": ["暴力破解工具Hydra 7.4版本发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/6520.html"], "tool_release_date": ["2012-12-20"], "tool_desc": ["免费浏览器安全检测工具browserscan(Rapid7公司出品)"]}
+{"tool_url": ["http://www.freebuf.com/news/others/6498.html"], "tool_release_date": ["2012-12-18"], "tool_desc": ["Sqli-Labs专业SQL注入测试平台"]}
+{"tool_url": ["http://www.freebuf.com/tools/6463.html"], "tool_release_date": ["2012-12-18"], "tool_desc": ["跨平台网站安全检测工具Cobra"]}
+{"tool_url": ["http://www.freebuf.com/news/others/6494.html"], "tool_release_date": ["2012-12-17"], "tool_desc": ["定位GFW的python脚本"]}
+{"tool_url": ["http://www.freebuf.com/tools/6487.html"], "tool_release_date": ["2012-12-17"], "tool_desc": ["python探测本地包含文件的小工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/6434.html"], "tool_release_date": ["2012-12-10"], "tool_desc": ["Sublime text 2 全平台破解总结"]}
+{"tool_url": ["http://www.freebuf.com/tools/6426.html"], "tool_release_date": ["2012-12-09"], "tool_desc": ["Burpsuite sqlmap插件"]}
+{"tool_url": ["http://www.freebuf.com/tools/6414.html"], "tool_release_date": ["2012-12-07"], "tool_desc": ["首款中文渗透测试专用Linux系统—MagicBox"]}
+{"tool_url": ["http://www.freebuf.com/tools/6401.html"], "tool_release_date": ["2012-12-05"], "tool_desc": ["新手入门8个简洁方便的安全工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/6375.html"], "tool_release_date": ["2012-12-04"], "tool_desc": ["WebCruiser全版本注册机下载"]}
+{"tool_url": ["http://www.freebuf.com/tools/6370.html"], "tool_release_date": ["2012-12-03"], "tool_desc": ["MySQL(Windows)远程提权漏洞[附扫描及利用程序]"]}
+{"tool_url": ["http://www.freebuf.com/tools/7013.html"], "tool_release_date": ["2013-01-23"], "tool_desc": ["渗透测试专用DNS代理—DNSChef"]}
+{"tool_url": ["http://www.freebuf.com/tools/6966.html"], "tool_release_date": ["2013-01-22"], "tool_desc": ["Dll Hijack检测工具—Dll Hijack Auditor"]}
+{"tool_url": ["http://www.freebuf.com/tools/6965.html"], "tool_release_date": ["2013-01-21"], "tool_desc": ["WordPress应用层防火墙插件：WP-WAF"]}
+{"tool_url": ["http://www.freebuf.com/tools/6917.html"], "tool_release_date": ["2013-01-18"], "tool_desc": ["[下载]burpsuite_pro_v1.5_crack更新"]}
+{"tool_url": ["http://www.freebuf.com/tools/6882.html"], "tool_release_date": ["2013-01-16"], "tool_desc": ["FTP登录密码找回工具—WS_FTP Password Decryptor"]}
+{"tool_url": ["http://www.freebuf.com/tools/6869.html"], "tool_release_date": ["2013-01-15"], "tool_desc": ["Exploit防御工具-ExploitShield Browser Edition"]}
+{"tool_url": ["http://www.freebuf.com/tools/6836.html"], "tool_release_date": ["2013-01-14"], "tool_desc": ["Cisco路由器安全扫描器—OCS v0.2"]}
+{"tool_url": ["http://www.freebuf.com/tools/6826.html"], "tool_release_date": ["2013-01-14"], "tool_desc": ["NFC协议安全工具-NFCGUI正式版发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/6797.html"], "tool_release_date": ["2013-01-11"], "tool_desc": ["页游安全工具/flash App security Tools"]}
+{"tool_url": ["http://www.freebuf.com/tools/6772.html"], "tool_release_date": ["2013-01-11"], "tool_desc": ["[整理]34个windows平台渗透测试工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/6770.html"], "tool_release_date": ["2013-01-10"], "tool_desc": ["Web安全漏洞被动扫描工具—Watcher v1.5.6(Fiddler插件)"]}
+{"tool_url": ["http://www.freebuf.com/tools/6747.html"], "tool_release_date": ["2013-01-09"], "tool_desc": ["免费无线密码恢复工具—WiFi Password Decryptor"]}
+{"tool_url": ["http://www.freebuf.com/tools/6746.html"], "tool_release_date": ["2013-01-09"], "tool_desc": ["使用web浏览器控制你的Android手机—Remote Web Desktop"]}
+{"tool_url": ["http://www.freebuf.com/tools/6674.html"], "tool_release_date": ["2013-01-04"], "tool_desc": ["THC-Hydra 7.4.1 最新windows版"]}
+{"tool_url": ["http://www.freebuf.com/tools/6668.html"], "tool_release_date": ["2013-01-04"], "tool_desc": ["Firefox浏览器键盘记录插件—Xenotix KeylogX"]}
+{"tool_url": ["http://www.freebuf.com/tools/6654.html"], "tool_release_date": ["2012-12-31"], "tool_desc": ["Microsoft SQL Server指纹识别工具ESF.pl（圣诞版）"]}
+{"tool_url": ["http://www.freebuf.com/tools/7362.html"], "tool_release_date": ["2013-02-19"], "tool_desc": ["恶意软件分析工具—Hook Analyser v2.3"]}
+{"tool_url": ["http://www.freebuf.com/tools/7348.html"], "tool_release_date": ["2013-02-18"], "tool_desc": ["社会工程学神器—信息收集工具theHarvester v2.2a"]}
+{"tool_url": ["http://www.freebuf.com/tools/7343.html"], "tool_release_date": ["2013-02-18"], "tool_desc": ["密码破解工具-Hashkill 0.3.1"]}
+{"tool_url": ["http://www.freebuf.com/tools/7328.html"], "tool_release_date": ["2013-02-18"], "tool_desc": ["RDG Tejon Crypter 2013（bypass all）"]}
+{"tool_url": ["http://www.freebuf.com/tools/7290.html"], "tool_release_date": ["2013-02-17"], "tool_desc": ["John&Hydra Hash破解神器Windows-GUI版"]}
+{"tool_url": ["http://www.freebuf.com/tools/7244.html"], "tool_release_date": ["2013-02-06"], "tool_desc": ["Proxmark3的Android客户端发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/7235.html"], "tool_release_date": ["2013-02-06"], "tool_desc": ["Web渗透测试框架-Zed Attack Proxy v 2.0.0（OWASP出品）"]}
+{"tool_url": ["http://www.freebuf.com/tools/7188.html"], "tool_release_date": ["2013-01-31"], "tool_desc": ["手机中的Backtrack—移动渗透测试套件Revenssis"]}
+{"tool_url": ["http://www.freebuf.com/tools/7144.html"], "tool_release_date": ["2013-01-30"], "tool_desc": ["Sqlmap-GUI by Aman Hardikar V2.4.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/7110.html"], "tool_release_date": ["2013-01-29"], "tool_desc": ["PHP Vulnerability Hunter 1.3.87发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/7126.html"], "tool_release_date": ["2013-01-29"], "tool_desc": ["在Windows运行Android系统—WindowsAndroid"]}
+{"tool_url": ["http://www.freebuf.com/tools/7123.html"], "tool_release_date": ["2013-01-29"], "tool_desc": ["免费安全测试套件PenTBox"]}
+{"tool_url": ["http://www.freebuf.com/tools/7078.html"], "tool_release_date": ["2013-01-25"], "tool_desc": ["智能手机扫描软件—Overlook Fing"]}
+{"tool_url": ["http://www.freebuf.com/tools/7075.html"], "tool_release_date": ["2013-01-25"], "tool_desc": ["Firefox浏览器键盘记录在线平台"]}
+{"tool_url": ["http://www.freebuf.com/tools/7060.html"], "tool_release_date": ["2013-01-24"], "tool_desc": ["[更新下载地址]ScorpioScan—WEB程序审计工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/7051.html"], "tool_release_date": ["2013-01-24"], "tool_desc": ["西门子SCADA设备暴力破解工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/7601.html"], "tool_release_date": ["2013-03-08"], "tool_desc": ["开源入侵检测系统Snort V2.9.4.1发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/7584.html"], "tool_release_date": ["2013-03-07"], "tool_desc": ["思科Cisco设备密码恢复工具-Cisco Password Decryptor 2.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/7580.html"], "tool_release_date": ["2013-03-07"], "tool_desc": ["社交程序密码恢复工具-Social Password Decryptor v1.5"]}
+{"tool_url": ["http://www.freebuf.com/tools/7575.html"], "tool_release_date": ["2013-03-06"], "tool_desc": ["APT攻击样本静态分析工具 – MASTIFF V0.5"]}
+{"tool_url": ["http://www.freebuf.com/tools/7551.html"], "tool_release_date": ["2013-03-05"], "tool_desc": ["Web Exploitation Engine 0.1"]}
+{"tool_url": ["http://www.freebuf.com/news/others/7539.html"], "tool_release_date": ["2013-03-04"], "tool_desc": ["Android版Nmap—anmap"]}
+{"tool_url": ["http://www.freebuf.com/tools/7531.html"], "tool_release_date": ["2013-03-04"], "tool_desc": ["Mifare Classic Tool (MCT)，Android平台RFID工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/7464.html"], "tool_release_date": ["2013-02-27"], "tool_desc": ["Burpsuite_pro_v1.5.01多平台破解版"]}
+{"tool_url": ["http://www.freebuf.com/tools/7463.html"], "tool_release_date": ["2013-02-27"], "tool_desc": ["Android平台渗透测试套件—zANTI"]}
+{"tool_url": ["http://www.freebuf.com/tools/7451.html"], "tool_release_date": ["2013-02-26"], "tool_desc": ["[汉化并修复]渗透测试框架winAUTOPWN v3.2"]}
+{"tool_url": ["http://www.freebuf.com/tools/7438.html"], "tool_release_date": ["2013-02-25"], "tool_desc": ["树莓派（Raspberry Pi）渗透测试系统—PwnPi v3.0发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/7427.html"], "tool_release_date": ["2013-02-25"], "tool_desc": ["BackBoxLinux 3.01发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/7412.html"], "tool_release_date": ["2013-02-22"], "tool_desc": ["MS-SQL存储过程破解工具—DecryptSQL 3.2.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/7414.html"], "tool_release_date": ["2013-02-22"], "tool_desc": ["Wireshark v1.9.0 Released"]}
+{"tool_url": ["http://www.freebuf.com/tools/7391.html"], "tool_release_date": ["2013-02-20"], "tool_desc": ["网站技术指纹分析工具（Chrome扩展）—Website Analyzer"]}
+{"tool_url": ["http://www.freebuf.com/tools/7386.html"], "tool_release_date": ["2013-02-20"], "tool_desc": ["SQL注入点自动化利用测试工具—shoryuken"]}
+{"tool_url": ["http://www.freebuf.com/tools/8215.html"], "tool_release_date": ["2013-04-02"], "tool_desc": ["渗透测试学习平台-web for pentester"]}
+{"tool_url": ["http://www.freebuf.com/tools/8128.html"], "tool_release_date": ["2013-03-29"], "tool_desc": ["SQLNuke:MYSQL load_file()函数注入工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/8105.html"], "tool_release_date": ["2013-03-28"], "tool_desc": ["D-Link路由器密码找回工具—DLink Password Decryptor"]}
+{"tool_url": ["http://www.freebuf.com/tools/8073.html"], "tool_release_date": ["2013-03-27"], "tool_desc": ["HTTP(S)中间人流量分析&蜜罐工具—HoneyProxy"]}
+{"tool_url": ["http://www.freebuf.com/tools/8071.html"], "tool_release_date": ["2013-03-27"], "tool_desc": ["免费网络监控抓包工具—Capsa"]}
+{"tool_url": ["http://www.freebuf.com/tools/7990.html"], "tool_release_date": ["2013-03-25"], "tool_desc": ["基于ngx_lua开发的web应用防火墙开源"]}
+{"tool_url": ["http://www.freebuf.com/tools/7875.html"], "tool_release_date": ["2013-03-22"], "tool_desc": ["分离Weevely加密模块加密任意WebShell"]}
+{"tool_url": ["http://www.freebuf.com/tools/7902.html"], "tool_release_date": ["2013-03-21"], "tool_desc": ["XSS漏洞攻击测试平台—XSSF v3.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/7843.html"], "tool_release_date": ["2013-03-20"], "tool_desc": ["免费Android客户端静态代码安全分析工具—Dexter"]}
+{"tool_url": ["http://www.freebuf.com/tools/7841.html"], "tool_release_date": ["2013-03-19"], "tool_desc": ["社会工程学工具集Social-Engineer Toolkit (SET) v4.7发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/7704.html"], "tool_release_date": ["2013-03-14"], "tool_desc": ["BackTrack下一代产品—kali Linux 1.0 发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/7676.html"], "tool_release_date": ["2013-03-14"], "tool_desc": ["破解加盐（Salted）SHA256 Hash工具—SHA256 Salted Hash Kracker"]}
+{"tool_url": ["http://www.freebuf.com/tools/7672.html"], "tool_release_date": ["2013-03-13"], "tool_desc": ["API自动化跟踪工具 – Malpimp"]}
+{"tool_url": ["http://www.freebuf.com/tools/7638.html"], "tool_release_date": ["2013-03-12"], "tool_desc": ["SQL注入自动测试工具—jSQL"]}
+{"tool_url": ["http://www.freebuf.com/tools/7603.html"], "tool_release_date": ["2013-03-12"], "tool_desc": ["伪造DNS/DHCP/HTTP服务器的蜜罐工具—Ghost Phisher"]}
+{"tool_url": ["http://www.freebuf.com/tools/7624.html"], "tool_release_date": ["2013-03-11"], "tool_desc": ["Phrozen Keylogger Lite v1.0发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/8651.html"], "tool_release_date": ["2013-04-16"], "tool_desc": ["Exploit/漏洞搜索引擎—ExploitSearch.net"]}
+{"tool_url": ["http://www.freebuf.com/tools/8515.html"], "tool_release_date": ["2013-04-15"], "tool_desc": ["S-X弱口令扫描工具 V1.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/8531.html"], "tool_release_date": ["2013-04-12"], "tool_desc": ["VoIP渗透测试套件—Viproy"]}
+{"tool_url": ["http://www.freebuf.com/tools/8502.html"], "tool_release_date": ["2013-04-12"], "tool_desc": ["天蝎座扫描器V3.130306官方版（更新+下载地址）"]}
+{"tool_url": ["http://www.freebuf.com/tools/8477.html"], "tool_release_date": ["2013-04-11"], "tool_desc": ["浏览器沙盒环境—Browser Sandbox"]}
+{"tool_url": ["http://www.freebuf.com/tools/8427.html"], "tool_release_date": ["2013-04-10"], "tool_desc": ["LFI（本地包含）漏洞助手—Panoptic"]}
+{"tool_url": ["http://www.freebuf.com/tools/8397.html"], "tool_release_date": ["2013-04-09"], "tool_desc": ["IPv4/IPv6网络安全测试工具—Evil Foca (Alpha版)"]}
+{"tool_url": ["http://www.freebuf.com/tools/8395.html"], "tool_release_date": ["2013-04-09"], "tool_desc": ["FlashFXP密码恢复软件-FlashfxpPasswordDecryptor"]}
+{"tool_url": ["http://www.freebuf.com/tools/8378.html"], "tool_release_date": ["2013-04-08"], "tool_desc": ["短信炸弹—用Python模拟ajax请求"]}
+{"tool_url": ["http://www.freebuf.com/tools/8341.html"], "tool_release_date": ["2013-04-08"], "tool_desc": ["查找phpwebshell小工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/8330.html"], "tool_release_date": ["2013-04-07"], "tool_desc": ["Android渗透测试虚拟机环境（VM）—AppUse"]}
+{"tool_url": ["http://www.freebuf.com/tools/8285.html"], "tool_release_date": ["2013-04-07"], "tool_desc": ["交互式安全工具控制台—Hackersh 0.1发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/8260.html"], "tool_release_date": ["2013-04-03"], "tool_desc": ["Acunetix Web Vulnerability Scanner 8.20130308 Release"]}
+{"tool_url": ["http://www.freebuf.com/tools/8249.html"], "tool_release_date": ["2013-04-03"], "tool_desc": ["TCP代理工具(Data tamper)—hookme"]}
+{"tool_url": ["http://www.freebuf.com/tools/8232.html"], "tool_release_date": ["2013-04-03"], "tool_desc": ["针对取证的GNU/Linux发行版: PALADIN"]}
+{"tool_url": ["http://www.freebuf.com/tools/8247.html"], "tool_release_date": ["2013-04-02"], "tool_desc": ["网站整站下载工具—HTTrack Website Copier"]}
+{"tool_url": ["http://www.freebuf.com/tools/9265.html"], "tool_release_date": ["2013-05-07"], "tool_desc": ["WiFi Pineapple Mark IV 无线安全审计的利器"]}
+{"tool_url": ["http://www.freebuf.com/tools/9280.html"], "tool_release_date": ["2013-05-07"], "tool_desc": ["移动设备取证、恶意软件分析和安全测试套件—Santoku"]}
+{"tool_url": ["http://www.freebuf.com/tools/9211.html"], "tool_release_date": ["2013-05-06"], "tool_desc": ["SafeKey团队原创渗透神器—Jscan 1.0发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/9119.html"], "tool_release_date": ["2013-05-06"], "tool_desc": ["SqlMap GUI 汉化版"]}
+{"tool_url": ["http://www.freebuf.com/tools/9090.html"], "tool_release_date": ["2013-04-28"], "tool_desc": ["御剑web指纹识别程序(新出的一款WIN平台CMS指纹识别小工具)"]}
+{"tool_url": ["http://www.freebuf.com/tools/9068.html"], "tool_release_date": ["2013-04-27"], "tool_desc": ["DNS反查工具—Resolver 1.0.9"]}
+{"tool_url": ["http://www.freebuf.com/tools/8982.html"], "tool_release_date": ["2013-04-25"], "tool_desc": ["Web日志安全分析工具 v2.0发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/8983.html"], "tool_release_date": ["2013-04-25"], "tool_desc": ["漏洞扫描器Nessus 5.2新版发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/8860.html"], "tool_release_date": ["2013-04-23"], "tool_desc": ["Ruby on Rails静态代码扫描工具—Brakeman v1.9.5"]}
+{"tool_url": ["http://www.freebuf.com/tools/8775.html"], "tool_release_date": ["2013-04-22"], "tool_desc": ["IBM Security AppScan V8.7下载"]}
+{"tool_url": ["http://www.freebuf.com/tools/8839.html"], "tool_release_date": ["2013-04-22"], "tool_desc": ["EXP开发辅助工具-PEDA"]}
+{"tool_url": ["http://www.freebuf.com/tools/8764.html"], "tool_release_date": ["2013-04-19"], "tool_desc": ["lynis—*nix安全审计工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/8752.html"], "tool_release_date": ["2013-04-18"], "tool_desc": ["Android数据库导出工具—ADEL"]}
+{"tool_url": ["http://www.freebuf.com/tools/8568.html"], "tool_release_date": ["2013-04-17"], "tool_desc": ["[更新]天蝎座扫描器0414官方版"]}
+{"tool_url": ["http://www.freebuf.com/tools/8710.html"], "tool_release_date": ["2013-04-17"], "tool_desc": ["自动化注入神器—Havij 1.17 Pro破解版"]}
+{"tool_url": ["http://www.freebuf.com/tools/8445.html"], "tool_release_date": ["2013-04-16"], "tool_desc": ["Cobalt Strike—Armitage商业版"]}
+{"tool_url": ["http://www.freebuf.com/tools/10071.html"], "tool_release_date": ["2013-05-31"], "tool_desc": ["libnmap – Nmap的Python第三方库"]}
+{"tool_url": ["http://www.freebuf.com/tools/10057.html"], "tool_release_date": ["2013-05-30"], "tool_desc": ["渗透测试专用浏览器Sandcat 4.0版本发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/10050.html"], "tool_release_date": ["2013-05-30"], "tool_desc": ["社会工程学工具集SET v5.1发布，代号“Name of the Doctor”"]}
+{"tool_url": ["http://www.freebuf.com/tools/9989.html"], "tool_release_date": ["2013-05-28"], "tool_desc": ["802.11 WEP和WPA-PSK破解工具——Aircrack-ng 1.2 Beta 1"]}
+{"tool_url": ["http://www.freebuf.com/tools/9875.html"], "tool_release_date": ["2013-05-27"], "tool_desc": ["BackBox Linux 3.05 发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/9857.html"], "tool_release_date": ["2013-05-24"], "tool_desc": ["自动化SQL注入工具——jSQL Injection v0.4"]}
+{"tool_url": ["http://www.freebuf.com/tools/9684.html"], "tool_release_date": ["2013-05-24"], "tool_desc": ["反向ICMP_shell – icmpsh"]}
+{"tool_url": ["http://www.freebuf.com/tools/9794.html"], "tool_release_date": ["2013-05-23"], "tool_desc": ["工控设备扫描工具 – PLCScan"]}
+{"tool_url": ["http://www.freebuf.com/tools/9437.html"], "tool_release_date": ["2013-05-22"], "tool_desc": ["Terminals配置文件解密工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/9667.html"], "tool_release_date": ["2013-05-20"], "tool_desc": ["Android平台下Mysql注入工具——DroidSQLi"]}
+{"tool_url": ["http://www.freebuf.com/tools/9599.html"], "tool_release_date": ["2013-05-16"], "tool_desc": ["开源网络准入系统 (NAC)——PacketFence v4.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/9442.html"], "tool_release_date": ["2013-05-16"], "tool_desc": ["用于匿名攻击和渗透测试的Linux发行版本-AttackVector"]}
+{"tool_url": ["http://www.freebuf.com/tools/9359.html"], "tool_release_date": ["2013-05-10"], "tool_desc": ["大规模捕获IPv4数据包工具-Moloch"]}
+{"tool_url": ["http://www.freebuf.com/tools/9354.html"], "tool_release_date": ["2013-05-09"], "tool_desc": ["Cain & Abel v4.9.44发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/9277.html"], "tool_release_date": ["2013-05-08"], "tool_desc": ["findmyhash.py–整合各类HASH在线破解服务"]}
+{"tool_url": ["http://www.freebuf.com/tools/9274.html"], "tool_release_date": ["2013-05-08"], "tool_desc": ["TCP代理数据篡改工具-HookME v0.2.1.0b"]}
+{"tool_url": ["http://www.freebuf.com/tools/10799.html"], "tool_release_date": ["2013-06-27"], "tool_desc": ["在你的Windows计算机上发现所有隐藏文件——Hidden File Finder"]}
+{"tool_url": ["http://www.freebuf.com/tools/10753.html"], "tool_release_date": ["2013-06-25"], "tool_desc": ["SQL注入测试工具——Safe3SI_9.0破解版"]}
+{"tool_url": ["http://www.freebuf.com/tools/10744.html"], "tool_release_date": ["2013-06-24"], "tool_desc": ["渗透测试团队协作平台——Dradis Pro"]}
+{"tool_url": ["http://www.freebuf.com/tools/10530.html"], "tool_release_date": ["2013-06-17"], "tool_desc": ["HoneyProxy-中间人SSL代理及传输分析工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/10497.html"], "tool_release_date": ["2013-06-16"], "tool_desc": ["MYIIS-VIF（服务器安全专家）全功能免费版本"]}
+{"tool_url": ["http://www.freebuf.com/tools/10474.html"], "tool_release_date": ["2013-06-14"], "tool_desc": ["如何使用Linux通用后门"]}
+{"tool_url": ["http://www.freebuf.com/tools/10472.html"], "tool_release_date": ["2013-06-14"], "tool_desc": ["Seay源代码审计系统1.0版本发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/10423.html"], "tool_release_date": ["2013-06-13"], "tool_desc": ["暗组Web杀毒 2.5 启发式查杀 0611 端午版"]}
+{"tool_url": ["http://www.freebuf.com/tools/10443.html"], "tool_release_date": ["2013-06-13"], "tool_desc": ["渗透测试专用PowerShell——Ninshang v.0.2.7"]}
+{"tool_url": ["http://www.freebuf.com/tools/10402.html"], "tool_release_date": ["2013-06-11"], "tool_desc": ["SQL注入工具 – Pangolin 4.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/10339.html"], "tool_release_date": ["2013-06-08"], "tool_desc": ["天蝎座Web安全渗透测试工具集V5发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/10297.html"], "tool_release_date": ["2013-06-06"], "tool_desc": ["[更新]hash注入神器WCE发布1.4 Beta版本"]}
+{"tool_url": ["http://www.freebuf.com/tools/7684.html"], "tool_release_date": ["2013-06-05"], "tool_desc": ["基于qt的xss扫描脚本"]}
+{"tool_url": ["http://www.freebuf.com/tools/10249.html"], "tool_release_date": ["2013-06-05"], "tool_desc": ["快速密码破解工具John the Ripper v1.8.0发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/10087.html"], "tool_release_date": ["2013-06-04"], "tool_desc": ["Veil – 免杀payload生成工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/10179.html"], "tool_release_date": ["2013-06-03"], "tool_desc": ["Android远程控制工具——AndroRat"]}
+{"tool_url": ["http://www.freebuf.com/tools/11717.html"], "tool_release_date": ["2013-08-12"], "tool_desc": ["Nmap –script 命令帮助手册"]}
+{"tool_url": ["http://www.freebuf.com/tools/11678.html"], "tool_release_date": ["2013-08-08"], "tool_desc": ["OWASP出品：Xenotix XSS漏洞测试框架"]}
+{"tool_url": ["http://www.freebuf.com/tools/11675.html"], "tool_release_date": ["2013-08-07"], "tool_desc": ["IDS/IPS测试工具（渗透测试必备）"]}
+{"tool_url": ["http://www.freebuf.com/tools/11650.html"], "tool_release_date": ["2013-08-07"], "tool_desc": ["[更新]暴力破解工具Hydra 7.5版本发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/11377.html"], "tool_release_date": ["2013-08-01"], "tool_desc": ["N合1Hash生成工具——Hash Console v1.5"]}
+{"tool_url": ["http://www.freebuf.com/tools/11432.html"], "tool_release_date": ["2013-07-29"], "tool_desc": ["插件更新两款-天蝎座web渗透工具集"]}
+{"tool_url": ["http://www.freebuf.com/tools/11372.html"], "tool_release_date": ["2013-07-23"], "tool_desc": ["全能暴力破解测试工具——Patator v0.5"]}
+{"tool_url": ["http://www.freebuf.com/tools/11126.html"], "tool_release_date": ["2013-07-16"], "tool_desc": ["Seay源代码审计系统2.0版本"]}
+{"tool_url": ["http://www.freebuf.com/tools/11095.html"], "tool_release_date": ["2013-07-12"], "tool_desc": ["著名开源入侵检测系统(IDS/IPS)：Snort V2.9.5发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/11013.html"], "tool_release_date": ["2013-07-10"], "tool_desc": ["安全扫描产品Netsparker CE V3.0社区版发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/11000.html"], "tool_release_date": ["2013-07-09"], "tool_desc": ["Chrome浏览器密码找回工具——Chrome Password Decryptor v4.6"]}
+{"tool_url": ["http://www.freebuf.com/tools/10955.html"], "tool_release_date": ["2013-07-09"], "tool_desc": ["[更新]Patator v0.5 多用途暴力破解工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/10991.html"], "tool_release_date": ["2013-07-09"], "tool_desc": ["高度模块化网络攻击工具包 – ZARP"]}
+{"tool_url": ["http://www.freebuf.com/tools/10910.html"], "tool_release_date": ["2013-07-04"], "tool_desc": ["Android黑客工具包——Destiny"]}
+{"tool_url": ["http://www.freebuf.com/tools/10875.html"], "tool_release_date": ["2013-07-03"], "tool_desc": ["渗透测试浏览器——HconSTF v0.5"]}
+{"tool_url": ["http://www.freebuf.com/tools/10824.html"], "tool_release_date": ["2013-07-02"], "tool_desc": ["开源扫描工具 – SpiderFoot 2.0.2 released"]}
+{"tool_url": ["http://www.freebuf.com/tools/11544.html"], "tool_release_date": ["2013-08-29"], "tool_desc": ["18个扩展让你的Firefox成为渗透测试工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/12060.html"], "tool_release_date": ["2013-08-27"], "tool_desc": ["智能家居协议数据包拦截工具-Z-Force"]}
+{"tool_url": ["http://www.freebuf.com/tools/11985.html"], "tool_release_date": ["2013-08-26"], "tool_desc": ["Zmap详细用户手册及DDOS的可行性"]}
+{"tool_url": ["http://www.freebuf.com/tools/11937.html"], "tool_release_date": ["2013-08-26"], "tool_desc": ["服务器文件批量下载工具：Web Cloner v0.1"]}
+{"tool_url": ["http://www.freebuf.com/tools/11973.html"], "tool_release_date": ["2013-08-23"], "tool_desc": ["Linux枚举及权限提升检查工具——LinEnum"]}
+{"tool_url": ["http://www.freebuf.com/tools/11972.html"], "tool_release_date": ["2013-08-23"], "tool_desc": ["后门制造工厂——The Backdoor Factory"]}
+{"tool_url": ["http://www.freebuf.com/tools/11905.html"], "tool_release_date": ["2013-08-22"], "tool_desc": ["BurpSuite权限提升漏洞检测插件——The Burp SessionAuth"]}
+{"tool_url": ["http://www.freebuf.com/tools/11917.html"], "tool_release_date": ["2013-08-21"], "tool_desc": ["XST漏洞检测工具 – nTrace"]}
+{"tool_url": ["http://www.freebuf.com/tools/11902.html"], "tool_release_date": ["2013-08-20"], "tool_desc": ["本地网络攻击测试集成工具——Zarp"]}
+{"tool_url": ["http://www.freebuf.com/tools/11884.html"], "tool_release_date": ["2013-08-19"], "tool_desc": ["ZMap：在一个小时内扫描整个互联网"]}
+{"tool_url": ["http://www.freebuf.com/tools/11861.html"], "tool_release_date": ["2013-08-19"], "tool_desc": ["Sharepoint和Frontpage安全审计工具 – Sparty V0.1"]}
+{"tool_url": ["http://www.freebuf.com/tools/11819.html"], "tool_release_date": ["2013-08-16"], "tool_desc": ["[更新]开源web漏洞扫描系统-IronWASP v0.9.6.5"]}
+{"tool_url": ["http://www.freebuf.com/tools/11740.html"], "tool_release_date": ["2013-08-14"], "tool_desc": ["N-Stalker WEB漏洞扫描器"]}
+{"tool_url": ["http://www.freebuf.com/tools/11777.html"], "tool_release_date": ["2013-08-13"], "tool_desc": ["SSH蜜罐工具 – HonSSH"]}
+{"tool_url": ["http://www.freebuf.com/tools/11734.html"], "tool_release_date": ["2013-08-13"], "tool_desc": ["Cobalt Strike Windows版破解"]}
+{"tool_url": ["http://www.freebuf.com/tools/11758.html"], "tool_release_date": ["2013-08-12"], "tool_desc": ["恶意软件分析工具 – Pyew"]}
+{"tool_url": ["http://www.freebuf.com/tools/14181.html"], "tool_release_date": ["2013-10-14"], "tool_desc": ["Linux主机本地信息自动采集工具（渗透测试必备）"]}
+{"tool_url": ["http://www.freebuf.com/tools/13925.html"], "tool_release_date": ["2013-10-11"], "tool_desc": ["基于psexec的域渗透测试工具—Smbexec v2.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/13845.html"], "tool_release_date": ["2013-10-10"], "tool_desc": ["Java自动化SQL注入测试工具—jSQL Injection v0.5"]}
+{"tool_url": ["http://www.freebuf.com/tools/13738.html"], "tool_release_date": ["2013-10-09"], "tool_desc": ["绕过VMware虚拟机登录认证神器—VMInjector（含使用心得）"]}
+{"tool_url": ["http://www.freebuf.com/tools/13468.html"], "tool_release_date": ["2013-09-29"], "tool_desc": ["在线恶意文件检测平台——ByteScanner"]}
+{"tool_url": ["http://www.freebuf.com/tools/13103.html"], "tool_release_date": ["2013-09-25"], "tool_desc": ["知名安全扫描工具AWVS 9（破解版下载）"]}
+{"tool_url": ["http://www.freebuf.com/tools/13073.html"], "tool_release_date": ["2013-09-24"], "tool_desc": ["DNS隧道制造工具——iodine"]}
+{"tool_url": ["http://www.freebuf.com/tools/13063.html"], "tool_release_date": ["2013-09-24"], "tool_desc": ["网站指纹识别工具——WhatWeb v0.4.7发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/12542.html"], "tool_release_date": ["2013-09-13"], "tool_desc": ["快速禁用Admin账户工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/12511.html"], "tool_release_date": ["2013-09-12"], "tool_desc": ["知名安全扫描工具Appscan8.7破解版（下载）"]}
+{"tool_url": ["http://www.freebuf.com/tools/12480.html"], "tool_release_date": ["2013-09-11"], "tool_desc": ["针对亚马逊云服务器（AWS）的渗透测试工具——Nimbostratus"]}
+{"tool_url": ["http://www.freebuf.com/tools/12365.html"], "tool_release_date": ["2013-09-06"], "tool_desc": ["又一款linux提权辅助工具 – Linux_Exploit_Suggester"]}
+{"tool_url": ["http://www.freebuf.com/tools/12360.html"], "tool_release_date": ["2013-09-06"], "tool_desc": ["[更新]GPU密码破解工具oclHashcat-plus V0.15"]}
+{"tool_url": ["http://www.freebuf.com/news/12280.html"], "tool_release_date": ["2013-09-05"], "tool_desc": ["走近科学：揭秘全美第一黑客组织Anonymous（匿名者）的装备库"]}
+{"tool_url": ["http://www.freebuf.com/tools/12252.html"], "tool_release_date": ["2013-09-03"], "tool_desc": ["自动无线渗透测试工具——Wi-fEye"]}
+{"tool_url": ["http://www.freebuf.com/tools/12248.html"], "tool_release_date": ["2013-09-02"], "tool_desc": ["一款国外开源会话劫持（XSS）平台——CookieCatcher"]}
+{"tool_url": ["http://www.freebuf.com/tools/17295.html"], "tool_release_date": ["2013-11-13"], "tool_desc": ["实时协作工具库 – TogetherJS"]}
+{"tool_url": ["http://www.freebuf.com/tools/17213.html"], "tool_release_date": ["2013-11-13"], "tool_desc": ["Python安全测试工具合集（整理）"]}
+{"tool_url": ["http://www.freebuf.com/tools/16823.html"], "tool_release_date": ["2013-11-11"], "tool_desc": ["安全工具Sqlmap免py环境(2013/09/13更新)"]}
+{"tool_url": ["http://www.freebuf.com/tools/17052.html"], "tool_release_date": ["2013-11-11"], "tool_desc": ["apache+php cgi mod(cve-2012-1823)批量检测工具（源码）"]}
+{"tool_url": ["http://www.freebuf.com/tools/16410.html"], "tool_release_date": ["2013-11-07"], "tool_desc": ["nmap速查表v1.0（中文版）"]}
+{"tool_url": ["http://www.freebuf.com/tools/16320.html"], "tool_release_date": ["2013-11-05"], "tool_desc": ["恶意代码分析利器 – scdbg"]}
+{"tool_url": ["http://www.freebuf.com/tools/16340.html"], "tool_release_date": ["2013-11-05"], "tool_desc": ["burpsuite_pro_v1.5.11 破解版"]}
+{"tool_url": ["http://www.freebuf.com/tools/16251.html"], "tool_release_date": ["2013-11-04"], "tool_desc": ["枚举和分析Windows DACLs工具 – WindowsDACLEnumProject"]}
+{"tool_url": ["http://www.freebuf.com/tools/15518.html"], "tool_release_date": ["2013-10-30"], "tool_desc": ["Outlook Password Dump：快速恢复你遗失的Microsoft Outlook密码"]}
+{"tool_url": ["http://www.freebuf.com/tools/15364.html"], "tool_release_date": ["2013-10-29"], "tool_desc": ["JSP端口转发工具 – KPortTran"]}
+{"tool_url": ["http://www.freebuf.com/tools/15515.html"], "tool_release_date": ["2013-10-29"], "tool_desc": ["Linux系统安全检查工具——Lynis"]}
+{"tool_url": ["http://www.freebuf.com/tools/15266.html"], "tool_release_date": ["2013-10-28"], "tool_desc": ["Binwalk：后门（固件）分析利器"]}
+{"tool_url": ["http://www.freebuf.com/tools/15111.html"], "tool_release_date": ["2013-10-24"], "tool_desc": ["国产WEB漏洞测试平台——MST"]}
+{"tool_url": ["http://www.freebuf.com/tools/15027.html"], "tool_release_date": ["2013-10-23"], "tool_desc": ["PC开机自启动程序检查工具——SterJo Startup Patrol v.1.3"]}
+{"tool_url": ["http://www.freebuf.com/tools/14332.html"], "tool_release_date": ["2013-10-17"], "tool_desc": ["本地网络连接监测软件SterJo NetStalker v.1.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/14047.html"], "tool_release_date": ["2013-10-15"], "tool_desc": ["Cookie利用神器：CookieHacker"]}
+{"tool_url": ["http://www.freebuf.com/tools/21114.html"], "tool_release_date": ["2013-12-24"], "tool_desc": ["分享Python编写的网站组件指纹扫描工具."]}
+{"tool_url": ["http://www.freebuf.com/tools/20512.html"], "tool_release_date": ["2013-12-20"], "tool_desc": ["全能型反汇编引擎 – Capstone-Engine"]}
+{"tool_url": ["http://www.freebuf.com/tools/20728.html"], "tool_release_date": ["2013-12-19"], "tool_desc": ["NFC协议安全工具-NFCGUI 1.5 Pro版发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/20462.html"], "tool_release_date": ["2013-12-18"], "tool_desc": ["无线网络嗅探分析工具 – CommView for WiFi 7.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/19698.html"], "tool_release_date": ["2013-12-11"], "tool_desc": ["NoSQL数据库(如MongoDB)自动攻击测试工具 – NOSQLMap"]}
+{"tool_url": ["http://www.freebuf.com/tools/19693.html"], "tool_release_date": ["2013-12-10"], "tool_desc": ["担心软件绑病毒？快关到沙盒里去 – Sandboxie"]}
+{"tool_url": ["http://www.freebuf.com/tools/19380.html"], "tool_release_date": ["2013-12-06"], "tool_desc": ["新兴开源扫描器Golismero插件编写-UI插件编写"]}
+{"tool_url": ["http://www.freebuf.com/tools/18888.html"], "tool_release_date": ["2013-12-02"], "tool_desc": ["自动化攻击测试平台Cobalt Strike 1.48破解版"]}
+{"tool_url": ["http://www.freebuf.com/tools/18772.html"], "tool_release_date": ["2013-11-29"], "tool_desc": ["Web网站敏感目录/内容探测工具 – Cansina"]}
+{"tool_url": ["http://www.freebuf.com/tools/18061.html"], "tool_release_date": ["2013-11-28"], "tool_desc": ["OWASP Xenotix XSS漏洞利用测试框架v4.5发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/18483.html"], "tool_release_date": ["2013-11-27"], "tool_desc": ["burpsuite_pro_v1.5.18 破解版"]}
+{"tool_url": ["http://www.freebuf.com/tools/18108.html"], "tool_release_date": ["2013-11-22"], "tool_desc": ["MST for Android – 国产WEB漏洞测试平台手机版"]}
+{"tool_url": ["http://www.freebuf.com/tools/18065.html"], "tool_release_date": ["2013-11-21"], "tool_desc": ["MSF漏洞攻击练习系统 – Metasploitable2"]}
+{"tool_url": ["http://www.freebuf.com/tools/18056.html"], "tool_release_date": ["2013-11-21"], "tool_desc": ["无线安全审计工具——FruityWifi v1.6"]}
+{"tool_url": ["http://www.freebuf.com/tools/18050.html"], "tool_release_date": ["2013-11-21"], "tool_desc": ["[更新]hash注入神器WCE发布v1.42beta(32)版本"]}
+{"tool_url": ["http://www.freebuf.com/news/17889.html"], "tool_release_date": ["2013-11-20"], "tool_desc": ["如何保护你的计算机不被恶意软件勒索"]}
+{"tool_url": ["http://www.freebuf.com/tools/24815.html"], "tool_release_date": ["2014-02-10"], "tool_desc": ["网站管理软件 – AspxSpy2014 Final"]}
+{"tool_url": ["http://www.freebuf.com/tools/23935.html"], "tool_release_date": ["2014-01-26"], "tool_desc": ["吐血开源，C++多协议下载引擎."]}
+{"tool_url": ["http://www.freebuf.com/tools/23014.html"], "tool_release_date": ["2014-01-25"], "tool_desc": ["[更新]网站管理软件-Chopper"]}
+{"tool_url": ["http://www.freebuf.com/tools/23846.html"], "tool_release_date": ["2014-01-20"], "tool_desc": ["代理上网行为检测逃脱之Proxifier快速上手"]}
+{"tool_url": ["http://www.freebuf.com/tools/23746.html"], "tool_release_date": ["2014-01-19"], "tool_desc": ["渗透测试专用版Linux：BackBox3.13发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/23630.html"], "tool_release_date": ["2014-01-16"], "tool_desc": ["国产Web漏洞扫描器 – 椰树1.8（大众开放版本）"]}
+{"tool_url": ["http://www.freebuf.com/tools/23551.html"], "tool_release_date": ["2014-01-15"], "tool_desc": ["DNS信息探测工具 – DNSRecon v0.8.6"]}
+{"tool_url": ["http://www.freebuf.com/tools/23416.html"], "tool_release_date": ["2014-01-15"], "tool_desc": ["[更新]基于GPU的HASH破解工具 – oclHashcat v1.0.1"]}
+{"tool_url": ["http://www.freebuf.com/tools/22984.html"], "tool_release_date": ["2014-01-08"], "tool_desc": ["SSL安全扫描器 – SSLyze"]}
+{"tool_url": ["http://www.freebuf.com/tools/22520.html"], "tool_release_date": ["2014-01-03"], "tool_desc": ["Android渗透测试工具包 – Bugtroid"]}
+{"tool_url": ["http://www.freebuf.com/tools/22136.html"], "tool_release_date": ["2014-01-02"], "tool_desc": ["免费代理工具-Proxy King"]}
+{"tool_url": ["http://www.freebuf.com/tools/21752.html"], "tool_release_date": ["2013-12-27"], "tool_desc": ["新兴开源扫描器Golismero插件编写-TestingPlugin插件编写（二）"]}
+{"tool_url": ["http://www.freebuf.com/tools/21385.html"], "tool_release_date": ["2013-12-26"], "tool_desc": ["开源Web应用防火墙（WAF）- ModSecurity v2.7发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/21446.html"], "tool_release_date": ["2013-12-25"], "tool_desc": ["burpsuite_pro_v1.5.20破解版下载"]}
+{"tool_url": ["http://www.freebuf.com/tools/21350.html"], "tool_release_date": ["2013-12-25"], "tool_desc": ["国产WEB漏洞扫描器 – 北极熊扫描器"]}
+{"tool_url": ["http://www.freebuf.com/tools/21015.html"], "tool_release_date": ["2013-12-25"], "tool_desc": ["[抛砖引玉]maltego调用nmap进行端口扫描"]}
+{"tool_url": ["http://www.freebuf.com/tools/29436.html"], "tool_release_date": ["2014-03-21"], "tool_desc": ["安全扫描工具Nmap分布式版本- DNmap"]}
+{"tool_url": ["http://www.freebuf.com/tools/29161.html"], "tool_release_date": ["2014-03-18"], "tool_desc": ["知名渗透测试套件BurpSuite Pro v1.6 beta破解版公布"]}
+{"tool_url": ["http://www.freebuf.com/tools/27762.html"], "tool_release_date": ["2014-03-06"], "tool_desc": ["安全扫描器IBM Appscan v8.8"]}
+{"tool_url": ["http://www.freebuf.com/tools/27400.html"], "tool_release_date": ["2014-03-05"], "tool_desc": ["简易爬虫搜索引擎 – JSearchEngine"]}
+{"tool_url": ["http://www.freebuf.com/tools/27206.html"], "tool_release_date": ["2014-02-28"], "tool_desc": ["DedeCMS全版本通杀SQL注入漏洞利用代码及工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/26989.html"], "tool_release_date": ["2014-02-27"], "tool_desc": ["web应用防火墙 – 安全伞18.5.1免费版本发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/27096.html"], "tool_release_date": ["2014-02-27"], "tool_desc": ["应用层防火墙ModSecurity日志控制台 – WAF-FLE"]}
+{"tool_url": ["http://www.freebuf.com/tools/27027.html"], "tool_release_date": ["2014-02-27"], "tool_desc": ["Web漏洞演练平台 – ZVulDrill"]}
+{"tool_url": ["http://www.freebuf.com/tools/26756.html"], "tool_release_date": ["2014-02-23"], "tool_desc": ["军火库：渗透测试工具流行性大调查"]}
+{"tool_url": ["http://www.freebuf.com/tools/26503.html"], "tool_release_date": ["2014-02-21"], "tool_desc": ["Drozer – Android APP安全评估工具（附测试案例）"]}
+{"tool_url": ["http://www.freebuf.com/tools/26526.html"], "tool_release_date": ["2014-02-20"], "tool_desc": ["iOS开发安全学习工具 – OWASP iGoat"]}
+{"tool_url": ["http://www.freebuf.com/tools/26122.html"], "tool_release_date": ["2014-02-17"], "tool_desc": ["安全扫描工具 – NetSparker v3.2.1.0破解版"]}
+{"tool_url": ["http://www.freebuf.com/tools/26292.html"], "tool_release_date": ["2014-02-17"], "tool_desc": ["SPIP漏洞扫描工具 – SPIPScan"]}
+{"tool_url": ["http://www.freebuf.com/tools/25746.html"], "tool_release_date": ["2014-02-14"], "tool_desc": ["简单抓取FreeBuf工具列表"]}
+{"tool_url": ["http://www.freebuf.com/tools/25665.html"], "tool_release_date": ["2014-02-12"], "tool_desc": ["号称可杀灭99.9%恶意程序的安全工具 – Rootkit Hunter"]}
+{"tool_url": ["http://www.freebuf.com/tools/25426.html"], "tool_release_date": ["2014-02-10"], "tool_desc": ["应用层DDoS攻击模拟器 – DDOSIM"]}
+{"tool_url": ["http://www.freebuf.com/tools/32785.html"], "tool_release_date": ["2014-04-24"], "tool_desc": ["heartbleed漏洞检查工具集合"]}
+{"tool_url": ["http://www.freebuf.com/tools/32746.html"], "tool_release_date": ["2014-04-24"], "tool_desc": ["国产BurpSuite插件 Assassin V1.1发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/32509.html"], "tool_release_date": ["2014-04-23"], "tool_desc": ["基于爬虫结果的web路径扫描程序 – bcrpscan"]}
+{"tool_url": ["http://www.freebuf.com/tools/32691.html"], "tool_release_date": ["2014-04-23"], "tool_desc": ["Kali-Linux扩充弹药：Kali Linux metapackages"]}
+{"tool_url": ["http://www.freebuf.com/tools/32468.html"], "tool_release_date": ["2014-04-22"], "tool_desc": ["Ruby OpenSSL 私钥伪造脚本"]}
+{"tool_url": ["http://www.freebuf.com/tools/32374.html"], "tool_release_date": ["2014-04-20"], "tool_desc": ["开源Web应用防火墙-ModSecurity v2.8发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/32092.html"], "tool_release_date": ["2014-04-17"], "tool_desc": ["Nmap扫描对比工具–libnmap实践"]}
+{"tool_url": ["http://www.freebuf.com/tools/32153.html"], "tool_release_date": ["2014-04-16"], "tool_desc": ["国产BurpSuite 插件 Assassin V1.0发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/31762.html"], "tool_release_date": ["2014-04-14"], "tool_desc": ["Web安全扫描器 IBM Appscan 9.0发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/31680.html"], "tool_release_date": ["2014-04-14"], "tool_desc": ["国外路由器密码扫描工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/30730.html"], "tool_release_date": ["2014-04-09"], "tool_desc": ["伪造数据生成工具 – Faker"]}
+{"tool_url": ["http://www.freebuf.com/tools/31421.html"], "tool_release_date": ["2014-04-09"], "tool_desc": ["OpenSSL HeartBleed漏洞批量检测工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/31027.html"], "tool_release_date": ["2014-04-09"], "tool_desc": ["人工代码安全审核工具 – Agnitio"]}
+{"tool_url": ["http://www.freebuf.com/tools/30886.html"], "tool_release_date": ["2014-04-03"], "tool_desc": ["打造可扩展的针对web漏洞的渗透测试平台 – skadi"]}
+{"tool_url": ["http://www.freebuf.com/tools/29410.html"], "tool_release_date": ["2014-03-27"], "tool_desc": ["DNS迭代穷举脚本"]}
+{"tool_url": ["http://www.freebuf.com/tools/29892.html"], "tool_release_date": ["2014-03-25"], "tool_desc": ["两款恶意软件清理工具AdwCleaner和Junkware Removal"]}
+{"tool_url": ["http://www.freebuf.com/tools/35868.html"], "tool_release_date": ["2014-06-05"], "tool_desc": ["移动平台调试利器：GikDbg"]}
+{"tool_url": ["http://www.freebuf.com/tools/35817.html"], "tool_release_date": ["2014-06-04"], "tool_desc": ["开源网站管理工具——Altman"]}
+{"tool_url": ["http://www.freebuf.com/news/35641.html"], "tool_release_date": ["2014-06-02"], "tool_desc": ["走近世界上第一个地下黑市搜索引擎"]}
+{"tool_url": ["http://www.freebuf.com/tools/35470.html"], "tool_release_date": ["2014-05-29"], "tool_desc": ["渗透测试效率提升工具 – MagicTree"]}
+{"tool_url": ["http://www.freebuf.com/tools/35455.html"], "tool_release_date": ["2014-05-28"], "tool_desc": ["The Social-Engineer Toolkit V6.0发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/35250.html"], "tool_release_date": ["2014-05-26"], "tool_desc": ["Firefox/Chrome渗透测试插件推荐"]}
+{"tool_url": ["http://www.freebuf.com/tools/34560.html"], "tool_release_date": ["2014-05-20"], "tool_desc": ["BarsWF：GPU破解MD5神器"]}
+{"tool_url": ["http://www.freebuf.com/tools/34653.html"], "tool_release_date": ["2014-05-19"], "tool_desc": ["最新Acunetix Web Vulnerability Scanner 9.5破解版"]}
+{"tool_url": ["http://www.freebuf.com/tools/33973.html"], "tool_release_date": ["2014-05-10"], "tool_desc": ["高效开源的网络扫描框架NINJA-PingU"]}
+{"tool_url": ["http://www.freebuf.com/tools/33687.html"], "tool_release_date": ["2014-05-07"], "tool_desc": ["Struts2 S02-020漏洞检测工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/33638.html"], "tool_release_date": ["2014-05-04"], "tool_desc": ["世界上最快的密码破解工具oclHashcat v1.20"]}
+{"tool_url": ["http://www.freebuf.com/tools/33191.html"], "tool_release_date": ["2014-04-28"], "tool_desc": ["HeartbleedScanner汉化版-”心脏出血”漏洞批量检测工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/32993.html"], "tool_release_date": ["2014-04-25"], "tool_desc": ["黑暗搜索引擎Shodan Chrome插件"]}
+{"tool_url": ["http://www.freebuf.com/tools/32948.html"], "tool_release_date": ["2014-04-25"], "tool_desc": ["开源web漏洞扫描系统 – IronWASP 2014版发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/32860.html"], "tool_release_date": ["2014-04-25"], "tool_desc": ["HP Webinspect 10.0 安全评估工具，附破解补丁"]}
+{"tool_url": ["http://www.freebuf.com/tools/32791.html"], "tool_release_date": ["2014-04-24"], "tool_desc": ["WebPwn3r Web应用程序漏洞扫描程序(附视频)"]}
+{"tool_url": ["http://www.freebuf.com/tools/38078.html"], "tool_release_date": ["2014-07-10"], "tool_desc": ["Oracle数据库攻击测试工具 – ODAT"]}
+{"tool_url": ["http://www.freebuf.com/tools/38025.html"], "tool_release_date": ["2014-07-10"], "tool_desc": ["elasticsearch 漏洞利用工具套装"]}
+{"tool_url": ["http://www.freebuf.com/tools/37765.html"], "tool_release_date": ["2014-07-09"], "tool_desc": ["社会工程学神器 – theHarvester修改版"]}
+{"tool_url": ["http://www.freebuf.com/tools/37489.html"], "tool_release_date": ["2014-07-02"], "tool_desc": ["国产SSL防火墙 – sslfw"]}
+{"tool_url": ["http://www.freebuf.com/tools/37512.html"], "tool_release_date": ["2014-07-02"], "tool_desc": ["Retargetable Decompiler 免费的在线反编译引擎"]}
+{"tool_url": ["http://www.freebuf.com/tools/37393.html"], "tool_release_date": ["2014-06-30"], "tool_desc": ["十大跨浏览器测试工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/37162.html"], "tool_release_date": ["2014-06-25"], "tool_desc": ["Windows密码抓取神器mimikatz2.0发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/37106.html"], "tool_release_date": ["2014-06-25"], "tool_desc": ["XssHtml – 基于白名单的富文本XSS过滤类"]}
+{"tool_url": ["http://www.freebuf.com/tools/36880.html"], "tool_release_date": ["2014-06-23"], "tool_desc": ["Android渗透测试工具大合集"]}
+{"tool_url": ["http://www.freebuf.com/tools/36817.html"], "tool_release_date": ["2014-06-23"], "tool_desc": ["google chrome 插件 “红杏” 破解版"]}
+{"tool_url": ["http://www.freebuf.com/tools/36904.html"], "tool_release_date": ["2014-06-19"], "tool_desc": ["WordPress系统暴力破解测试工具 – wpbf"]}
+{"tool_url": ["http://www.freebuf.com/tools/36637.html"], "tool_release_date": ["2014-06-17"], "tool_desc": ["[源码]再次复活你的goagent"]}
+{"tool_url": ["http://www.freebuf.com/tools/36545.html"], "tool_release_date": ["2014-06-16"], "tool_desc": ["免费DDOS攻击测试工具大合集"]}
+{"tool_url": ["http://www.freebuf.com/tools/36461.html"], "tool_release_date": ["2014-06-13"], "tool_desc": ["暴力破解工具Hydra 8.0版本发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/36424.html"], "tool_release_date": ["2014-06-12"], "tool_desc": ["还有谁？利用Bing搜索的心血漏洞检测工具 – Bing Heartbleed Scan"]}
+{"tool_url": ["http://www.freebuf.com/tools/35956.html"], "tool_release_date": ["2014-06-06"], "tool_desc": ["开源域用户弱口令检(po)测(jie)工具"]}
+{"tool_url": ["http://www.freebuf.com/news/39880.html"], "tool_release_date": ["2014-08-04"], "tool_desc": ["愤怒的白帽子：被Facebook拒绝支付赏金后，白帽子编写大规模攻击工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/39744.html"], "tool_release_date": ["2014-08-04"], "tool_desc": ["WordPress xmlrpc利用测试工具多线程版"]}
+{"tool_url": ["http://www.freebuf.com/tools/39875.html"], "tool_release_date": ["2014-08-04"], "tool_desc": ["Python内网渗透测试信息收集脚本v1.0（开源）"]}
+{"tool_url": ["http://www.freebuf.com/tools/39765.html"], "tool_release_date": ["2014-08-04"], "tool_desc": ["Weevely（php菜刀）工具使用详解"]}
+{"tool_url": ["http://www.freebuf.com/tools/39707.html"], "tool_release_date": ["2014-08-02"], "tool_desc": ["Cookiel劫持测试工具 – Cookie Injecting Tools"]}
+{"tool_url": ["http://www.freebuf.com/tools/39530.html"], "tool_release_date": ["2014-08-01"], "tool_desc": ["WordPress xmlrpc利用工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/39500.html"], "tool_release_date": ["2014-07-30"], "tool_desc": ["远程管理软件PcShare全套源码下载"]}
+{"tool_url": ["http://www.freebuf.com/tools/39050.html"], "tool_release_date": ["2014-07-26"], "tool_desc": ["中间人攻击之劫持登录会话（含视频下载）"]}
+{"tool_url": ["http://www.freebuf.com/tools/39138.html"], "tool_release_date": ["2014-07-25"], "tool_desc": ["域名解析服务器 – OpenerDNS"]}
+{"tool_url": ["http://www.freebuf.com/tools/38976.html"], "tool_release_date": ["2014-07-25"], "tool_desc": ["路由器安全测试工具 – Router Scan v2.44（汉化版）"]}
+{"tool_url": ["http://www.freebuf.com/tools/38817.html"], "tool_release_date": ["2014-07-25"], "tool_desc": ["渗透辅助工具 – 修改http请求头部chrome扩展下载"]}
+{"tool_url": ["http://www.freebuf.com/tools/38798.html"], "tool_release_date": ["2014-07-22"], "tool_desc": ["Web安全扫描器Netsparker v3.5.3破解版"]}
+{"tool_url": ["http://www.freebuf.com/tools/38731.html"], "tool_release_date": ["2014-07-21"], "tool_desc": ["Web安全扫描器Netsparker v3.5发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/38668.html"], "tool_release_date": ["2014-07-21"], "tool_desc": ["分布式破解WPA密码工具 – Moscrack V2.8b"]}
+{"tool_url": ["http://www.freebuf.com/tools/38375.html"], "tool_release_date": ["2014-07-15"], "tool_desc": ["punkspider – 全球Web应用程序漏洞扫描引擎"]}
+{"tool_url": ["http://www.freebuf.com/tools/38308.html"], "tool_release_date": ["2014-07-14"], "tool_desc": ["FreeBuf IOS客户端v1.0发布（粉丝制作版）"]}
+{"tool_url": ["http://www.freebuf.com/tools/43191.html"], "tool_release_date": ["2014-09-12"], "tool_desc": ["PHP配置安全检查工具 – PCC"]}
+{"tool_url": ["http://www.freebuf.com/tools/43185.html"], "tool_release_date": ["2014-09-11"], "tool_desc": ["Linux安全审计工具Lynis 1.6.1版发布，允许低权限下检测"]}
+{"tool_url": ["http://www.freebuf.com/tools/42919.html"], "tool_release_date": ["2014-09-10"], "tool_desc": ["常用的渗透测试工具型网站"]}
+{"tool_url": ["http://www.freebuf.com/tools/42740.html"], "tool_release_date": ["2014-09-05"], "tool_desc": ["Passera：为每一个网站生成独一无二的强密码"]}
+{"tool_url": ["http://www.freebuf.com/tools/42722.html"], "tool_release_date": ["2014-09-05"], "tool_desc": ["使用Xenotix_XSS框架进行自动化安全测试"]}
+{"tool_url": ["http://www.freebuf.com/tools/42487.html"], "tool_release_date": ["2014-09-03"], "tool_desc": ["Android平台渗透测试套件zANTI 2.0版发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/42170.html"], "tool_release_date": ["2014-09-02"], "tool_desc": ["RFID安全审计工具集合 – RadioEye"]}
+{"tool_url": ["http://www.freebuf.com/tools/42103.html"], "tool_release_date": ["2014-09-01"], "tool_desc": ["支持多代理的攻击测试框架 – MultiProxies"]}
+{"tool_url": ["http://www.freebuf.com/tools/41031.html"], "tool_release_date": ["2014-08-20"], "tool_desc": ["自动化攻击测试平台Cobalt Strike 2.0.49破解版"]}
+{"tool_url": ["http://www.freebuf.com/news/40907.html"], "tool_release_date": ["2014-08-16"], "tool_desc": ["BitTorrent Bleep：无法被监控的聊天软件"]}
+{"tool_url": ["http://www.freebuf.com/tools/40865.html"], "tool_release_date": ["2014-08-15"], "tool_desc": ["Linux蜜罐系统HoneyDrive 3版本发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/40580.html"], "tool_release_date": ["2014-08-13"], "tool_desc": ["VirTest5.0特征码定位器（开源）"]}
+{"tool_url": ["http://www.freebuf.com/tools/40418.html"], "tool_release_date": ["2014-08-12"], "tool_desc": ["SoftEther VPN Server (VPN Gate) 安装笔记"]}
+{"tool_url": ["http://www.freebuf.com/tools/40411.html"], "tool_release_date": ["2014-08-12"], "tool_desc": ["揭秘渗透测试利器：Webshell批量管理工具QuasiBot"]}
+{"tool_url": ["http://www.freebuf.com/tools/40413.html"], "tool_release_date": ["2014-08-10"], "tool_desc": ["应用层慢速DoS攻击压力测试工具 – SlowHTTPTest"]}
+{"tool_url": ["http://www.freebuf.com/tools/40078.html"], "tool_release_date": ["2014-08-07"], "tool_desc": ["BTLE/BT4.0低功耗蓝牙无线发包器（可模拟iBeacon、建链、通信等）"]}
+{"tool_url": ["http://www.freebuf.com/tools/47189.html"], "tool_release_date": ["2014-10-16"], "tool_desc": ["BackBox Linux 4.0发布"]}
+{"tool_url": ["http://www.freebuf.com/news/46858.html"], "tool_release_date": ["2014-10-15"], "tool_desc": ["叙利亚电子军发布自己的Linux发行版 – SEANux"]}
+{"tool_url": ["http://www.freebuf.com/news/46569.html"], "tool_release_date": ["2014-10-14"], "tool_desc": ["走近BlackEnergy：黑客为乌克兰政府量身打造的犯罪软件"]}
+{"tool_url": ["http://www.freebuf.com/news/46291.html"], "tool_release_date": ["2014-10-10"], "tool_desc": ["研究人员公布BadUSB攻击测试（exploit）代码"]}
+{"tool_url": ["http://www.freebuf.com/tools/45796.html"], "tool_release_date": ["2014-10-09"], "tool_desc": ["内网劫持渗透新姿势：MITMf简要指南"]}
+{"tool_url": ["http://www.freebuf.com/tools/45639.html"], "tool_release_date": ["2014-10-01"], "tool_desc": ["FreeBuf文章更新提醒插件Chrome版"]}
+{"tool_url": ["http://www.freebuf.com/tools/45548.html"], "tool_release_date": ["2014-09-30"], "tool_desc": ["Twitter信息抓取工具 – TinfoLeak"]}
+{"tool_url": ["http://www.freebuf.com/tools/45311.html"], "tool_release_date": ["2014-09-28"], "tool_desc": ["Bash漏洞批量检测工具与修复方案"]}
+{"tool_url": ["http://www.freebuf.com/tools/45239.html"], "tool_release_date": ["2014-09-28"], "tool_desc": ["渗透神器合体：在BurpSuite中集成Sqlmap"]}
+{"tool_url": ["http://www.freebuf.com/tools/44629.html"], "tool_release_date": ["2014-09-26"], "tool_desc": ["自动化攻击测试平台Cobalt Strike v2.1（破解版）"]}
+{"tool_url": ["http://www.freebuf.com/tools/44308.html"], "tool_release_date": ["2014-09-24"], "tool_desc": ["Linux内核实现多路镜像流量聚合和复制"]}
+{"tool_url": ["http://www.freebuf.com/tools/43837.html"], "tool_release_date": ["2014-09-18"], "tool_desc": ["安全扫描工具WVS Console版v1.1"]}
+{"tool_url": ["http://www.freebuf.com/tools/43879.html"], "tool_release_date": ["2014-09-17"], "tool_desc": ["有趣的个人云平台 – Sandstorm"]}
+{"tool_url": ["http://www.freebuf.com/tools/43194.html"], "tool_release_date": ["2014-09-16"], "tool_desc": ["快速、直接的XSS漏洞检测爬虫 – XSScrapy"]}
+{"tool_url": ["http://www.freebuf.com/tools/43468.html"], "tool_release_date": ["2014-09-15"], "tool_desc": ["开源NAC中的佼佼者 – PacketFence"]}
+{"tool_url": ["http://www.freebuf.com/tools/43334.html"], "tool_release_date": ["2014-09-15"], "tool_desc": ["火眼（FireEye）实验室FLARE IDA Pro脚本系列：MSDN注释插件"]}
+{"tool_url": ["http://www.freebuf.com/tools/51796.html"], "tool_release_date": ["2014-11-17"], "tool_desc": ["Exploit搜索工具 – Pompem"]}
+{"tool_url": ["http://www.freebuf.com/tools/51103.html"], "tool_release_date": ["2014-11-12"], "tool_desc": ["Android渗透测试工具 – zANTI（汉化版）"]}
+{"tool_url": ["http://www.freebuf.com/tools/50904.html"], "tool_release_date": ["2014-11-12"], "tool_desc": ["苹果设备（iPhone、iPad）GPS定位工具 – iSniff-GPS"]}
+{"tool_url": ["http://www.freebuf.com/tools/50734.html"], "tool_release_date": ["2014-11-11"], "tool_desc": ["自动化渗透测试工具 – Heybe"]}
+{"tool_url": ["http://www.freebuf.com/tools/50324.html"], "tool_release_date": ["2014-11-07"], "tool_desc": ["谷歌出品：网络流量安全测试工具Nogotofail"]}
+{"tool_url": ["http://www.freebuf.com/tools/50095.html"], "tool_release_date": ["2014-11-05"], "tool_desc": ["45分钟扫遍全网：最快的互联网扫描工具ZMap 1.2.1版使用手册"]}
+{"tool_url": ["http://www.freebuf.com/tools/49877.html"], "tool_release_date": ["2014-11-04"], "tool_desc": ["如何使用Wappalyzer API进行Web应用指纹识别"]}
+{"tool_url": ["http://www.freebuf.com/tools/49592.html"], "tool_release_date": ["2014-10-31"], "tool_desc": ["密码分析工具 – Pipal"]}
+{"tool_url": ["http://www.freebuf.com/tools/49546.html"], "tool_release_date": ["2014-10-31"], "tool_desc": ["捆绑安装浏览器：技术剖析搜狗输入法中的猫腻"]}
+{"tool_url": ["http://www.freebuf.com/news/49421.html"], "tool_release_date": ["2014-10-30"], "tool_desc": ["无需木马感染即可监听键盘：新型恶意软件ScanBox问世"]}
+{"tool_url": ["http://www.freebuf.com/tools/48219.html"], "tool_release_date": ["2014-10-23"], "tool_desc": ["BackBox Linux 4.0 初体验使用小记"]}
+{"tool_url": ["http://www.freebuf.com/tools/48410.html"], "tool_release_date": ["2014-10-23"], "tool_desc": ["WiFi分析和安全检测工具：WiFi software Acrylic WiFi Free v2.1"]}
+{"tool_url": ["http://www.freebuf.com/tools/48016.html"], "tool_release_date": ["2014-10-21"], "tool_desc": ["SSL中间人证书攻击测试演练"]}
+{"tool_url": ["http://www.freebuf.com/tools/47863.html"], "tool_release_date": ["2014-10-21"], "tool_desc": ["Windows 平台下局域网劫持测试工具 – EvilFoca"]}
+{"tool_url": ["http://www.freebuf.com/tools/47248.html"], "tool_release_date": ["2014-10-17"], "tool_desc": ["最好的Android安全测试框架 – Drozer"]}
+{"tool_url": ["http://www.freebuf.com/tools/47411.html"], "tool_release_date": ["2014-10-17"], "tool_desc": ["BadUSB的前世今生：USB RUBBER DUCKY和Teensy USB"]}
+{"tool_url": ["http://www.freebuf.com/tools/55090.html"], "tool_release_date": ["2014-12-26"], "tool_desc": ["知名安全检测工具IBM Rational AppScan v9.0.1.1发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/54781.html"], "tool_release_date": ["2014-12-23"], "tool_desc": ["走近科学：分析漏洞利用工具包（EXP）家族成员Archie和Astrum"]}
+{"tool_url": ["http://www.freebuf.com/tools/54591.html"], "tool_release_date": ["2014-12-23"], "tool_desc": ["国产开源网站管理工具 – Altman3新版发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/54562.html"], "tool_release_date": ["2014-12-19"], "tool_desc": ["解密所有APP运行过程中的内部逻辑"]}
+{"tool_url": ["http://www.freebuf.com/tools/54602.html"], "tool_release_date": ["2014-12-18"], "tool_desc": ["网站压力测试工具 – 低轨道离子炮（LOIC）v1.0.8更新"]}
+{"tool_url": ["http://www.freebuf.com/tools/54222.html"], "tool_release_date": ["2014-12-16"], "tool_desc": ["ModSecurity技巧：使用ssdeep检测Webshell"]}
+{"tool_url": ["http://www.freebuf.com/tools/54221.html"], "tool_release_date": ["2014-12-15"], "tool_desc": ["如何打造一款可靠的WAF（Web应用防火墙）"]}
+{"tool_url": ["http://www.freebuf.com/tools/54178.html"], "tool_release_date": ["2014-12-14"], "tool_desc": ["强大的网站管理软件 – 中国菜刀20141213新版发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/54024.html"], "tool_release_date": ["2014-12-11"], "tool_desc": ["自动化网络扫描探测工具 – AutoScan-Network"]}
+{"tool_url": ["http://www.freebuf.com/news/53939.html"], "tool_release_date": ["2014-12-11"], "tool_desc": ["这货不是电源：硬件渗透测试平台 – Power Pwn"]}
+{"tool_url": ["http://www.freebuf.com/tools/53554.html"], "tool_release_date": ["2014-12-05"], "tool_desc": ["批量Webshell管理工具QuasiBot之后门代码分析"]}
+{"tool_url": ["http://www.freebuf.com/tools/53487.html"], "tool_release_date": ["2014-12-04"], "tool_desc": ["国产SQL注入漏洞测试工具 – 超级SQL注入工具（SSQLInjection）"]}
+{"tool_url": ["http://www.freebuf.com/tools/53236.html"], "tool_release_date": ["2014-12-02"], "tool_desc": ["Android中间人攻击测试工具（原创） – Lanmitm"]}
+{"tool_url": ["http://www.freebuf.com/tools/53239.html"], "tool_release_date": ["2014-12-02"], "tool_desc": ["Windows间谍软件检测工具 – Detekt"]}
+{"tool_url": ["http://www.freebuf.com/news/52417.html"], "tool_release_date": ["2014-11-24"], "tool_desc": ["Google出品：开源Web App漏洞测试环境 – Firing Range"]}
+{"tool_url": ["http://www.freebuf.com/tools/52333.html"], "tool_release_date": ["2014-11-21"], "tool_desc": ["PHP应用安全静态代码分析工具 – WAP 2.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/57828.html"], "tool_release_date": ["2015-01-29"], "tool_desc": ["国产开源内网信息收集工具v1.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/57487.html"], "tool_release_date": ["2015-01-27"], "tool_desc": ["究竟谁在监控我？反监控工具SnoopSnitch"]}
+{"tool_url": ["http://www.freebuf.com/tools/57010.html"], "tool_release_date": ["2015-01-21"], "tool_desc": ["开源漏洞利用测试（Exploit）平台 – Exploit Pack"]}
+{"tool_url": ["http://www.freebuf.com/tools/56432.html"], "tool_release_date": ["2015-01-21"], "tool_desc": ["Metasploit渗透技巧：后渗透Meterpreter代理"]}
+{"tool_url": ["http://www.freebuf.com/news/56609.html"], "tool_release_date": ["2015-01-18"], "tool_desc": ["注重用户体验：小白也能“轻松上手”的网银盗号工具KL-Remote"]}
+{"tool_url": ["http://www.freebuf.com/news/56578.html"], "tool_release_date": ["2015-01-17"], "tool_desc": ["使用I2P匿名网络通信，又一款勒索软件CryptoWall 3.0来了"]}
+{"tool_url": ["http://www.freebuf.com/news/56414.html"], "tool_release_date": ["2015-01-15"], "tool_desc": ["伪装成USB充电器的无线键盘嗅探器 – KeySweeper"]}
+{"tool_url": ["http://www.freebuf.com/tools/56092.html"], "tool_release_date": ["2015-01-14"], "tool_desc": ["Javascript间谍脚本分析：Web恶意程序Scanbox源码分析与演示"]}
+{"tool_url": ["http://www.freebuf.com/tools/56289.html"], "tool_release_date": ["2015-01-14"], "tool_desc": ["透析挖洞神器mona.py插件新特性"]}
+{"tool_url": ["http://www.freebuf.com/tools/56280.html"], "tool_release_date": ["2015-01-13"], "tool_desc": ["网络密码嗅探（Web/FTP/Email）工具 – SniffPass"]}
+{"tool_url": ["http://www.freebuf.com/tools/55800.html"], "tool_release_date": ["2015-01-07"], "tool_desc": ["蓝牙设备安全测试工具 – BlueMaho"]}
+{"tool_url": ["http://www.freebuf.com/tools/55673.html"], "tool_release_date": ["2015-01-07"], "tool_desc": ["对windows密码抓取神器mimikatz的逆向分析"]}
+{"tool_url": ["http://www.freebuf.com/tools/55754.html"], "tool_release_date": ["2015-01-06"], "tool_desc": ["WiFi安全测试工具、蹭网利器 – WiFiPhisher"]}
+{"tool_url": ["http://www.freebuf.com/tools/55392.html"], "tool_release_date": ["2015-01-06"], "tool_desc": ["深度：针对超强手机木马DenDroid的分析与测试"]}
+{"tool_url": ["http://www.freebuf.com/news/55559.html"], "tool_release_date": ["2015-01-04"], "tool_desc": ["FreeBuf年终策划：FreeBuf 2014十大安全工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/55374.html"], "tool_release_date": ["2014-12-31"], "tool_desc": ["知名安全检测工具AWVS（Acunetix Web Vulnerability Scanner） v9.5更新"]}
+{"tool_url": ["http://www.freebuf.com/tools/60752.html"], "tool_release_date": ["2015-03-13"], "tool_desc": ["“高端”人士必备：新型安全加密通讯应用Otr.to"]}
+{"tool_url": ["http://www.freebuf.com/tools/60632.html"], "tool_release_date": ["2015-03-12"], "tool_desc": ["Metasploit Payload服务器 – Maligno v2.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/60379.html"], "tool_release_date": ["2015-03-09"], "tool_desc": ["打造Chrome下的HackBar – HackMan"]}
+{"tool_url": ["http://www.freebuf.com/tools/60312.html"], "tool_release_date": ["2015-03-09"], "tool_desc": ["如何制作属于你的HID Key"]}
+{"tool_url": ["http://www.freebuf.com/tools/59813.html"], "tool_release_date": ["2015-03-02"], "tool_desc": ["开源网站信息收集工具 – SpiderFoot v2.3.0发布"]}
+{"tool_url": ["http://www.freebuf.com/news/56253.html"], "tool_release_date": ["2015-02-25"], "tool_desc": ["利用路由器发起攻击：“DDoS之王”Lizard Squad的攻击武器 – Lizard Stresser"]}
+{"tool_url": ["http://www.freebuf.com/tools/59401.html"], "tool_release_date": ["2015-02-25"], "tool_desc": ["免费Android移动应用安全测试虚拟机环境 – AppUse"]}
+{"tool_url": ["http://www.freebuf.com/tools/59045.html"], "tool_release_date": ["2015-02-15"], "tool_desc": ["间谍游戏：用Arduino制作硬件键盘记录器"]}
+{"tool_url": ["http://www.freebuf.com/tools/58841.html"], "tool_release_date": ["2015-02-13"], "tool_desc": ["渗透测试系统Kali Linux 1.1.0发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/58732.html"], "tool_release_date": ["2015-02-10"], "tool_desc": ["HTTP(S)网站目录暴破测试工具 – Dirs3arch v0.3.0"]}
+{"tool_url": ["http://www.freebuf.com/tools/58631.html"], "tool_release_date": ["2015-02-09"], "tool_desc": ["如何清除Bootkit木马后门"]}
+{"tool_url": ["http://www.freebuf.com/tools/58071.html"], "tool_release_date": ["2015-02-03"], "tool_desc": ["修复Firefox（火狐）浏览器常用安全测试插件Live HTTP Headers的replay功能"]}
+{"tool_url": ["http://www.freebuf.com/tools/58038.html"], "tool_release_date": ["2015-02-02"], "tool_desc": ["美国陆军制造：开源攻击分析框架Dshell"]}
+{"tool_url": ["http://www.freebuf.com/tools/58012.html"], "tool_release_date": ["2015-02-01"], "tool_desc": ["渗透测试系统BackBox Linux 4.1发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/58022.html"], "tool_release_date": ["2015-02-01"], "tool_desc": ["CMS漏洞检测工具 – CMSmap"]}
+{"tool_url": ["http://www.freebuf.com/tools/57810.html"], "tool_release_date": ["2015-01-30"], "tool_desc": ["自动化攻击测试平台Cobalt Strike v2.3破解版"]}
+{"tool_url": ["http://www.freebuf.com/tools/65747.html"], "tool_release_date": ["2015-04-27"], "tool_desc": ["炫酷的渗透系统Parrot Security OS"]}
+{"tool_url": ["http://www.freebuf.com/news/65725.html"], "tool_release_date": ["2015-04-25"], "tool_desc": ["对抗NSA（美国国安局）：NSA Quantum注入攻击检测工具问世"]}
+{"tool_url": ["http://www.freebuf.com/tools/64030.html"], "tool_release_date": ["2015-04-15"], "tool_desc": ["系统命令注入漏洞自动化测试工具 – Commix"]}
+{"tool_url": ["http://www.freebuf.com/tools/63469.html"], "tool_release_date": ["2015-04-09"], "tool_desc": ["渗透测试神器Burp Suite v1.6.12破解版下载"]}
+{"tool_url": ["http://www.freebuf.com/tools/63360.html"], "tool_release_date": ["2015-04-09"], "tool_desc": ["使用CommView for WiFi抓取无线报文"]}
+{"tool_url": ["http://www.freebuf.com/tools/63352.html"], "tool_release_date": ["2015-04-08"], "tool_desc": ["安全扫描器Netsparker 4 破解版下载"]}
+{"tool_url": ["http://www.freebuf.com/tools/62404.html"], "tool_release_date": ["2015-03-31"], "tool_desc": ["本地文件包含（LFI）漏洞检测工具 – Kadimus"]}
+{"tool_url": ["http://www.freebuf.com/tools/62395.html"], "tool_release_date": ["2015-03-30"], "tool_desc": ["更自动、更易用：安全扫描器Netsparker 4新版发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/61716.html"], "tool_release_date": ["2015-03-24"], "tool_desc": ["解密Nuclear漏洞利用工具包中的Flash漏洞加密手段"]}
+{"tool_url": ["http://www.freebuf.com/tools/61698.html"], "tool_release_date": ["2015-03-24"], "tool_desc": ["钓鱼Wi-Fi及嗅探测试工具 – 3vilTwinAttacker"]}
+{"tool_url": ["http://www.freebuf.com/tools/61601.html"], "tool_release_date": ["2015-03-23"], "tool_desc": ["安全扫描器BugScan插件初写心语"]}
+{"tool_url": ["http://www.freebuf.com/news/61493.html"], "tool_release_date": ["2015-03-23"], "tool_desc": ["最新Flash漏洞现已加入Nuclear漏洞利用工具包"]}
+{"tool_url": ["http://www.freebuf.com/tools/61282.html"], "tool_release_date": ["2015-03-20"], "tool_desc": ["教你用Python玩转神器Metasploit"]}
+{"tool_url": ["http://www.freebuf.com/tools/61313.html"], "tool_release_date": ["2015-03-19"], "tool_desc": ["国产工具：渗透测试助手PKAV HTTP Fuzzer发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/61234.html"], "tool_release_date": ["2015-03-19"], "tool_desc": ["酷炫的开源中间人攻击（MITM）测试套件 – netool.sh（含视频）"]}
+{"tool_url": ["http://www.freebuf.com/tools/61243.html"], "tool_release_date": ["2015-03-19"], "tool_desc": ["半开源Web安全测试与学习平台 – 蚁逅"]}
+{"tool_url": ["http://www.freebuf.com/news/68225.html"], "tool_release_date": ["2015-05-26"], "tool_desc": ["Astoria：防止美国国安局（NSA）监听的高级Tor客户端"]}
+{"tool_url": ["http://www.freebuf.com/tools/68265.html"], "tool_release_date": ["2015-05-26"], "tool_desc": ["中国烧鹅系列：利用烧鹅自动执行SD卡上的自定义程序（含视频）"]}
+{"tool_url": ["http://www.freebuf.com/tools/68229.html"], "tool_release_date": ["2015-05-25"], "tool_desc": ["忘记密码咋办？本地密码检索工具 – LaZagne Project"]}
+{"tool_url": ["http://www.freebuf.com/tools/67923.html"], "tool_release_date": ["2015-05-25"], "tool_desc": ["玩转Metasploit系列（第三集）"]}
+{"tool_url": ["http://www.freebuf.com/articles/67931.html"], "tool_release_date": ["2015-05-21"], "tool_desc": ["中国烧鹅系列：利用烧鹅自动获得反弹SHELL"]}
+{"tool_url": ["http://www.freebuf.com/tools/67685.html"], "tool_release_date": ["2015-05-21"], "tool_desc": ["玩转Metasploit系列（第二集）"]}
+{"tool_url": ["http://www.freebuf.com/tools/67674.html"], "tool_release_date": ["2015-05-19"], "tool_desc": ["玩转Metasploit系列（第一集）"]}
+{"tool_url": ["http://www.freebuf.com/tools/67712.html"], "tool_release_date": ["2015-05-19"], "tool_desc": ["Fing：这款APP可以告诉你WiFi里都连着哪些设备"]}
+{"tool_url": ["http://www.freebuf.com/tools/67592.html"], "tool_release_date": ["2015-05-19"], "tool_desc": ["小技巧：Mac下Metasploit渗透Oracle环境的搭建"]}
+{"tool_url": ["http://www.freebuf.com/tools/67563.html"], "tool_release_date": ["2015-05-18"], "tool_desc": ["烧鹅：中国人自己的HID Hacking Device"]}
+{"tool_url": ["http://www.freebuf.com/tools/66635.html"], "tool_release_date": ["2015-05-08"], "tool_desc": ["Unix/Linux系统安全检查工具Lynis 2.1.0发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/66521.html"], "tool_release_date": ["2015-05-07"], "tool_desc": ["渗透测试神器Burp Suite v1.6.17（含破解版下载）"]}
+{"tool_url": ["http://www.freebuf.com/tools/66630.html"], "tool_release_date": ["2015-05-07"], "tool_desc": ["免费的MySQL数据库防火墙 – SQLassie"]}
+{"tool_url": ["http://www.freebuf.com/tools/66498.html"], "tool_release_date": ["2015-05-06"], "tool_desc": ["USBKill：黑客防查水表、摧毁罪证的新“武器”"]}
+{"tool_url": ["http://www.freebuf.com/tools/66096.html"], "tool_release_date": ["2015-04-29"], "tool_desc": ["GitHack：一个git泄露利用脚本"]}
+{"tool_url": ["http://www.freebuf.com/tools/66060.html"], "tool_release_date": ["2015-04-29"], "tool_desc": ["解药来了：思科发布针对勒索软件TeslaCrypt的解密工具"]}
+{"tool_url": ["http://www.freebuf.com/tools/71246.html"], "tool_release_date": ["2015-06-29"], "tool_desc": ["巧用Gmail做你的C&C服务器"]}
+{"tool_url": ["http://www.freebuf.com/tools/71091.html"], "tool_release_date": ["2015-06-27"], "tool_desc": ["安全扫描神器Acunetix Web Vulnerability Scanner 10发布（含破解版下载）"]}
+{"tool_url": ["http://www.freebuf.com/news/70965.html"], "tool_release_date": ["2015-06-27"], "tool_desc": ["SecureAxcess：这个USB装置可以保证你的邮件、聊天、文件传输安全可靠"]}
+{"tool_url": ["http://www.freebuf.com/tools/70540.html"], "tool_release_date": ["2015-06-22"], "tool_desc": ["Nexus设备上的渗透测试平台 – Kali Linux NetHunter"]}
+{"tool_url": ["http://www.freebuf.com/tools/70373.html"], "tool_release_date": ["2015-06-18"], "tool_desc": ["安全搜索引擎Shodan（搜蛋）命令行模式使用TIPS"]}
+{"tool_url": ["http://www.freebuf.com/tools/70038.html"], "tool_release_date": ["2015-06-16"], "tool_desc": ["关于建立社工库的经验总结"]}
+{"tool_url": ["http://www.freebuf.com/news/69821.html"], "tool_release_date": ["2015-06-16"], "tool_desc": ["选个“靶子”练练手：15个漏洞测试网站带你飞"]}
+{"tool_url": ["http://www.freebuf.com/tools/69988.html"], "tool_release_date": ["2015-06-15"], "tool_desc": ["可绕过WAF的Burp Suite插件 – BypassWAF"]}
+{"tool_url": ["http://www.freebuf.com/tools/69652.html"], "tool_release_date": ["2015-06-11"], "tool_desc": ["Exploit-Database官方GitHub仓库"]}
+{"tool_url": ["http://www.freebuf.com/tools/69236.html"], "tool_release_date": ["2015-06-05"], "tool_desc": ["开源无线WiFi入侵检测&防护系统 – WAIDPS"]}
+{"tool_url": ["http://www.freebuf.com/news/69069.html"], "tool_release_date": ["2015-06-04"], "tool_desc": ["终于等到你：Windows将加入SSH管理功能"]}
+{"tool_url": ["http://www.freebuf.com/tools/68747.html"], "tool_release_date": ["2015-06-01"], "tool_desc": ["做一名无线黑客，这些装备你必须有"]}
+{"tool_url": ["http://www.freebuf.com/tools/68409.html"], "tool_release_date": ["2015-05-29"], "tool_desc": ["玩转Metasploit系列（第五集）"]}
+{"tool_url": ["http://www.freebuf.com/tools/68583.html"], "tool_release_date": ["2015-05-28"], "tool_desc": ["路由器安全检查APP（安卓） – RouterCheck"]}
+{"tool_url": ["http://www.freebuf.com/news/68521.html"], "tool_release_date": ["2015-05-27"], "tool_desc": ["强强合体：Docker版Kali Linux发布"]}
+{"tool_url": ["http://www.freebuf.com/tools/68205.html"], "tool_release_date": ["2015-05-27"], "tool_desc": ["玩转Metasploit系列（第四集）"]}
