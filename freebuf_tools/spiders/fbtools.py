@@ -4,13 +4,21 @@ from freebuf_tools.items import FreebufToolsItem
 
 class Fbtools(scrapy.Spider):
   name = 'fbtools'
-  allowed_domains = ["freebuf.com"]
-  start_urls = [
-    "http://www.freebuf.com/tools"
-  ]
+  
+  def __init__(self, total_page=None):
+    self.allowed_domains = ["freebuf.com"]
+    self.start_urls = [
+      "http://www.freebuf.com/tools"
+    ]
+    self.total_page = total_page
+
   
   def parse(self, response):
-    # unicode(response.body.decode(response.encoding)).encode('utf-8')
+    for tools_page in range(1, int(self.total_page)+1):
+      yield scrapy.Request('http://www.freebuf.com/tools/page/'+str(tools_page), callback=self.parse_tools)
+
+
+  def parse_tools(self, response):
     fb = FreebufToolsItem()
     tool_sum_peer_page = len(response.xpath('//*[@id="timeline"]/div'))
     for tool_id in range(1,tool_sum_peer_page + 1):
@@ -22,5 +30,3 @@ class Fbtools(scrapy.Spider):
       print fb['tool_url']
       yield fb
 
-    for tools_page in range(2,48):
-      yield scrapy.Request('http://www.freebuf.com/tools/page/'+str(tools_page), callback=self.parse)
